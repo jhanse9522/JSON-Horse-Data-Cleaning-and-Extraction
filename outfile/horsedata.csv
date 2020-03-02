@@ -1,0 +1,1001 @@
+horse,horseLabel,mother,father,birthyear,genderLabel
+Q1001792,Makybe Diva,Q14949904,Q5263956,1999,female organism
+Q1005232,Rock of Gibraltar,missing,Q1005468,1999,male organism
+Q1005468,Danehill,Q61987321,Q1104509,1986,male organism
+Q1012807,Lammtarra,Q7548189,Q26798,1992,male organism
+Q1016696,Burmese,missing,missing,missing,female organism
+Q1018502,Byerley Turk,missing,missing,1684,male organism
+Q1026641,Caletto I,missing,Q1131753,1975,male organism
+Q1026643,Caletto II,missing,Q1131753,1978,male organism
+Q10271114,El Asteroide,missing,missing,1960,missing
+Q1027559,Calvaro Z,missing,Q1026641,1987,male organism
+Q10276372,Estensoro,missing,missing,1955,missing
+Q10280226,Farwell,missing,missing,1956,missing
+Q10290268,Glória de Campeão,missing,missing,2003,male organism
+Q1032366,Majestic Prince,Q61986019,Q11349325,1966,male organism
+Q10355915,Quari Bravo,missing,missing,1994,missing
+Q10401505,Adrian Chip,missing,missing,2004,missing
+Q1042741,Nonoalco,missing,Q3307189,1971,male organism
+Q10430773,Björsells Briar 899,missing,missing,missing,missing
+Q10434730,Brandklipparen,missing,missing,missing,missing
+Q10438085,Butterfly Flip,missing,Q10656182,1991,female organism
+Q10453480,Citation,missing,missing,2001,missing
+Q10457469,Commander Crowe,missing,missing,2003,missing
+Q1048383,Cassini I,missing,missing,1988,male organism
+Q10493183,Expert Ox,missing,missing,missing,missing
+Q10499345,From Above,missing,missing,1998,missing
+Q10506996,Going Kronos,missing,missing,2003,missing
+Q1051250,Catoki,missing,missing,1998,male organism
+Q10518312,Harry Boy,missing,missing,missing,missing
+Q10523962,Hilda Zonett,missing,missing,1997,missing
+Q10526537,Hot Tub,missing,missing,missing,missing
+Q10527143,Humorist,missing,missing,missing,missing
+Q10533392,Iceland,missing,missing,2004,missing
+Q10534861,Ina Scot,missing,missing,1989,missing
+Q10556424,Legolas,missing,missing,1978,missing
+Q10575407,Maharajah,missing,missing,2005,missing
+Q1058802,Dubai Millennium,missing,Q7445798,1996,male organism
+Q10591868,Mynta,missing,Q10656182,missing,female organism
+Q1060692,Chambertin,missing,missing,1993,male organism
+Q10622318,Peleng (häst),missing,missing,missing,missing
+Q10650831,Remington Crown,missing,missing,1993,missing
+Q10651593,Rex Rodney,missing,missing,missing,missing
+Q10656182,Robin Z,missing,missing,missing,male organism
+Q10660117,Sahara Dynamite,missing,missing,2004,missing
+Q10674599,Speedy Crown,missing,missing,missing,missing
+Q10678152,Steinlager,missing,Q11972363,1998,missing
+Q10681657,Streiff,missing,missing,missing,male organism
+Q10684844,Svensk Travsport,missing,missing,missing,missing
+Q10704706,Triton Sund,missing,missing,2001,missing
+Q10711590,Utter (häst),missing,missing,missing,missing
+Q10714249,Verner (travhäst),missing,missing,missing,missing
+Q10715882,Viola Silas,missing,missing,2006,missing
+Q10717674,Värmlandshäst,missing,missing,missing,missing
+Q10719522,Wega,Q18202358,missing,2001,female organism
+Q10719568,Welsh ponny (sektion D),missing,missing,missing,missing
+Q10720750,Wyomisk vildhäst,missing,missing,missing,missing
+Q10724779,Zoogin,missing,missing,1990,missing
+Q10727020,Çukurovahäst,missing,missing,missing,missing
+Q10727733,Öselponny,missing,missing,missing,missing
+Q1076143,Native Dancer,Q55079388,Q7226614,1950,male organism
+Q1083118,Ruffian,Q7494198,Q7318397,1972,female organism
+Q1083357,Goldikova,missing,Q4750541,2005,female organism
+Q10879991,Akeed Mofeed,missing,Q5310663,2009,male organism
+Q10887476,Floral Pegasus,missing,missing,missing,missing
+Q10894648,Takeover Target,missing,Q5058531,1999,missing
+Q10901653,Packing Winner,missing,Q8063464,2002,missing
+Q10920078,Johan Cruyff,missing,Q1005468,1994,male organism
+Q10923648,Helene Mascot,missing,Q3374316,2004,male organism
+Q10932646,Durandal,missing,Q180387,1999,male organism
+Q1093305,Zarkava,missing,Q11306420,2005,female organism
+Q10940455,Uranus,missing,missing,1920,missing
+Q10942413,Oriental Express,missing,missing,1993,missing
+Q10942860,Armada,missing,Q11321092,2001,missing
+Q1096659,Imperiál,missing,missing,1960,male organism
+Q10981990,Asakusa Den'en,missing,Q7524216,1999,male organism
+Q11007793,Preakness,missing,Q370429,1867,male organism
+Q1101198,Matchem,missing,Q5016340,1748,male organism
+Q11034408,Yukichan,Q11308284,Q11299831,2005,female organism
+Q11039568,Ambitious Dragon,missing,missing,2006,male organism
+Q11041122,Calstone Light O,missing,Q7969814,1998,male organism
+Q1104509,Danzig,Q61985951,Q1969034,1977,male organism
+Q1104636,Sadler's Wells,Q11332612,Q1969034,1981,male organism
+Q1104649,Mr. Prospector,Q11303942,Q11349325,1970,male organism
+Q11120041,Ultra Fantasy,missing,missing,2002,missing
+Q11144439,Shotover,missing,Q5741736,1879,female organism
+Q11147543,Mr Vitality,missing,missing,1991,missing
+Q11164164,Miswaki,missing,Q1104649,1978,male organism
+Q11251240,Whalebone,Q7162558,Q7975736,1807,male organism
+Q1127291,Clever Hans,missing,missing,missing,missing
+Q11282055,Iron Look,missing,Q11284104,2006,male organism
+Q11282151,Isinglass,Q61994307,Q6086160,1890,male organism
+Q11282173,Icecapade,missing,Q3307189,1969,male organism
+Q11282257,アイディンサマー,missing,Q11305095,1997,male organism
+Q11282362,Ines Fujin,missing,Q11308892,1987,male organism
+Q11282404,アイフル,missing,Q11314327,1971,male organism
+Q11282414,Eye Popper,missing,Q11304765,2000,male organism
+Q11282424,I'm Yours,missing,Q5431678,2009,female organism
+Q11282462,Irish Dance,missing,Q7821904,1990,female organism
+Q11282471,アイルトンシンボリ,missing,Q11308703,1989,male organism
+Q11282483,アイルラヴァゲイン,missing,Q5351060,2002,male organism
+Q11282509,アインアイン,missing,Q11329799,1997,female organism
+Q11282520,アインブライド,missing,Q5152210,1995,female organism
+Q11282571,アイーンベル,missing,Q180387,2001,female organism
+Q11282594,Auslese,missing,Q11314942,2002,female organism
+Q11282708,アカネテンリュウ,missing,Q11318040,1966,male organism
+Q11282780,アキヒロホマレ,missing,missing,1985,male organism
+Q11282906,Axion,missing,Q180387,2003,male organism
+Q11282996,アクチブハトリ,missing,missing,1986,male organism
+Q11283008,アクティブバイオ,missing,Q7096598,1997,male organism
+Q11283068,アグネスカミカゼ,missing,Q180387,1993,male organism
+Q11283069,アグネスゴールド,missing,Q180387,1998,male organism
+Q11283070,Agnes Jedi,missing,Q11283074,2002,male organism
+Q11283071,アグネスデジタル,missing,missing,1997,male organism
+Q11283072,Agnes Flora,Q11283075,Q707462,1987,female organism
+Q11283073,アグネスラズベリ,missing,Q11289435,2001,female organism
+Q11283074,Agnes World,missing,Q1104509,1995,male organism
+Q11283075,Agnes Lady,Q11286483,Q11348445,1976,female organism
+Q11283108,Again,missing,Q5215867,2006,female organism
+Q11283145,アサカディフィート,missing,missing,1998,missing
+Q11283149,アサクサキングス,missing,Q11338126,2004,male organism
+Q11283161,Assatis,missing,missing,1985,male organism
+Q11283163,アサデンコウ,missing,missing,1964,male organism
+Q11283167,アサヒエンペラー,missing,missing,1983,male organism
+Q11283181,Asahi Rising,missing,Q11350130,2003,female organism
+Q11283196,アサホコ,missing,Q11329960,1960,male organism
+Q11283200,アサマユリ,missing,Q11338612,1959,female organism
+Q11283205,アサリユウセンプー,missing,Q11321754,1986,male organism
+Q11283249,Asidero,missing,missing,1996,male organism
+Q11283406,Adjudicating,missing,Q1104509,1987,male organism
+Q11283407,Adjudi Mitsuo,missing,Q11283406,2001,male organism
+Q11283446,アスコツト,missing,Q11318342,1928,male organism
+Q11283487,アステリモア,missing,Q11306904,1935,female organism
+Q11283518,アストラル,missing,missing,1921,female organism
+Q11283546,アストンマーチャン,missing,Q11284094,2004,female organism
+Q11283590,Aswan,missing,Q7059024,1979,male organism
+Q11283605,アズマハンター,missing,missing,1979,male organism
+Q11283606,アズマビヨンド,missing,Q5215257,1999,male organism
+Q11283710,Adam's Peak,missing,Q730381,2009,male organism
+Q11283748,アチーブスター,missing,Q11307511,1969,female organism
+Q11283903,Ammirare,missing,Q180387,1997,male organism
+Q11283960,アトミックサンダー,missing,Q11343607,1995,male organism
+Q11284089,Admire Aura,Q11331056,Q4693122,2004,male organism
+Q11284091,Admise,missing,Q11325975,1992,female organism
+Q11284092,Admire Groove,Q11289428,Q180387,2000,female organism
+Q11284093,アドマイヤキッス,missing,Q180387,2003,female organism
+Q11284094,Admire Cozzene,missing,Q5180163,1996,male organism
+Q11284095,Admire Sunday,missing,Q180387,1995,female organism
+Q11284096,アドマイヤコマンド,missing,Q4693122,2005,missing
+Q11284097,Admire Japan,Q11331056,Q180387,2002,male organism
+Q11284098,アドマイヤジュピタ,missing,Q11334069,2003,male organism
+Q11284099,アドマイヤスバル,missing,Q11284104,2003,male organism
+Q11284100,Admire Big,Q11309244,Q180387,2001,male organism
+Q11284102,アドマイヤフジ,missing,Q17221619,2002,male organism
+Q11284103,Admire Hope,missing,Q5472988,2001,male organism
+Q11284104,Admire Boss,Q11336820,Q180387,1997,male organism
+Q11284105,Admire Max,Q11316831,Q180387,1999,male organism
+Q11284106,Admire Main,missing,Q180387,2003,male organism
+Q11284114,アドラーブル,missing,Q7059024,1989,female organism
+Q11284198,Anabaa Blue,missing,Q4750541,1998,male organism
+Q11284322,アニメイトバイオ,missing,Q8069153,2007,female organism
+Q11284509,Apapane,missing,Q11297858,2007,female organism
+Q11284604,アフェクトダンサー,missing,missing,1989,female organism
+Q11284651,After Market,missing,Q3499832,2003,male organism
+Q11284668,African Rose,missing,Q7075459,2005,female organism
+Q11284680,Afleet,missing,Q1104649,1984,male organism
+Q11284700,Absolute,Q11335374,Q11316237,2004,missing
+Q11284748,アプリコットフィズ,missing,Q11310148,2007,female organism
+Q11284753,Après un rêve,Q11350094,Q7661156,2006,male organism
+Q11284801,アポインテッドデイ,missing,Q7304776,2001,male organism
+Q11284813,Apollo Kingdom,missing,Q6521306,2003,male organism
+Q11284817,アポロドルチェ,missing,Q11292216,2005,male organism
+Q11284845,Amazon Warrior,missing,Q6399291,1960,female organism
+Q11285005,Amuro,missing,Q11334538,2008,male organism
+Q11285065,American Boss,missing,Q3197083,1995,male organism
+Q11285192,アヤパン,missing,Q11334556,2003,female organism
+Q11285199,アユサン,missing,Q730381,2010,female organism
+Q11285232,アラシ,missing,missing,1989,missing
+Q11285326,アンドレアモン,missing,Q11348502,1979,male organism
+Q11285398,Amber Shadai,missing,Q7059024,1977,male organism
+Q11285402,アンパサンド,missing,Q11332400,2004,male organism
+Q11285430,アンブラスモア,missing,missing,1994,male organism
+Q11285436,Ampere,missing,Q11351244,2006,female organism
+Q11285454,Unrivaled,Q11328242,Q11325271,2006,male organism
+Q11285505,アヴェンチュラ,Q11284095,Q11310148,2008,female organism
+Q11285511,Havresac,missing,Q11347361,1915,male organism
+Q11285527,アーキペンコ,missing,Q3197083,2004,male organism
+Q11285690,アーネストリー,missing,Q11300176,2005,male organism
+Q11285709,アーバニティ,missing,Q11341616,2004,male organism
+Q11285774,アーリーロブスト,missing,Q11328013,2006,male organism
+Q11285855,Iide Kenshin,missing,Q11305671,2005,male organism
+Q11285901,イエリユウ,missing,Q11321111,1937,male organism
+Q11285909,イエローゴッド,missing,Q7304192,1967,male organism
+Q11286412,イクスキューズ,missing,Q4947930,2004,female organism
+Q11286426,イクノディクタス,missing,Q11320008,1987,female organism
+Q11286434,Igugu,missing,Q3094737,2007,female organism
+Q11286479,イコピコ,missing,Q11341616,2006,male organism
+Q11286483,Ikoma Eikan,missing,missing,1967,female organism
+Q11286497,イサハヤ,missing,missing,1929,male organism
+Q11286498,Isabelline,missing,missing,1944,female organism
+Q11286543,イシノアラシ,missing,missing,1972,male organism
+Q11286544,イシノサンデー,missing,Q180387,1993,male organism
+Q11286545,イシノヒカル,missing,missing,1969,male organism
+Q11286652,イソノルーブル,missing,Q11346734,1988,female organism
+Q11286690,イタリアンレッド,missing,Q11325271,2006,female organism
+Q11286766,イチフジイサミ,missing,missing,1970,male organism
+Q11286800,Itto,Q11342101,Q11352175,1971,female organism
+Q11286810,イツセイ,missing,Q11314399,1948,male organism
+Q11286881,Inazuma Amaryllis,missing,Q11311221,2006,female organism
+Q11286884,イナズマタカオー,missing,missing,1991,male organism
+Q11286895,イナリトウザイ,missing,missing,1971,female organism
+Q11286896,イナリワン,missing,Q11342941,1984,male organism
+Q11286959,イブキマイカグラ,missing,Q7301055,1988,male organism
+Q11286960,イブキライズアップ,missing,missing,1998,male organism
+Q11287115,Immortal Verse,missing,Q11331695,2008,female organism
+Q11287234,イルーシヴピムパーネル,missing,missing,1991,male organism
+Q11287341,Ingrandire,missing,Q11338126,1999,male organism
+Q11287429,Intaglio,missing,missing,missing,male organism
+Q11287457,インターグロリア,missing,Q11325587,1974,female organism
+Q11287555,インターマイウェイ,missing,Q11324558,1990,male organism
+Q11287566,インターレジェンダ,missing,Q180387,1998,missing
+Q11287578,Intikhab,missing,Q7304776,1994,male organism
+Q11287579,インティライミ,missing,Q11312941,2002,male organism
+Q11287603,インテリパワー,missing,Q11348940,1995,male organism
+Q11287612,Intense Focus,missing,Q3105301,2006,male organism
+Q11287633,Indian Ridge,missing,Q4696288,1985,male organism
+Q11287793,In Reality,Q6945244,Q6044492,1964,male organism
+Q11287797,Invincible Spirit,missing,Q5602473,1997,male organism
+Q11287863,イーグルカフェ,missing,Q11296295,1997,male organism
+Q11287915,Eastern Anthem,Q6381833,Q7524216,2004,male organism
+Q11288068,ウィッシュドリーム,missing,missing,1989,male organism
+Q11288094,Sea Hawk,missing,Q11308892,1986,male organism
+Q11288178,Wilko,missing,Q4830021,2002,male organism
+Q11288318,ウイザート,missing,Q11314399,1947,male organism
+Q11288331,With Anticipation,missing,Q7310849,1995,missing
+Q11288343,ウイニングチケット,missing,Q7821904,1990,male organism
+Q11288372,ウイルデイール,missing,missing,1956,male organism
+Q11288379,ウインクリューガー,missing,Q7676023,2000,male organism
+Q11288384,ウイングアロー,missing,Q11283161,1995,male organism
+Q11288390,ウインザーノット,Q11305572,Q11329825,1980,male organism
+Q11288432,Wind in Her Hair,Q61976466,Q17361618,1991,female organism
+Q11288444,ウインバリアシオン,missing,Q4309360,2008,male organism
+Q11288445,ウインマーベラス,missing,Q180387,1997,male organism
+Q11288447,ウインラディウス,missing,Q180387,1998,male organism
+Q11288587,Welsh Muffin,missing,Q2932844,1987,female organism
+Q11288643,ウエスタンダンサー,missing,Q5252233,2004,female organism
+Q11288767,ウォータクティクス,missing,Q7968431,2005,male organism
+Q11288908,ウズシオタロー,missing,missing,1974,female organism
+Q11289004,Woodpecker,missing,Q5742973,1787,male organism
+Q11289014,ウツミジョーダン,missing,Q11322180,2000,male organism
+Q11289088,ウメノファイバー,missing,Q11304531,1996,female organism
+Q11289089,ウメノチカラ,missing,Q11330399,1961,male organism
+Q11289424,エアエミネム,missing,Q1005468,1998,male organism
+Q11289428,Air Groove,Q11316819,Q7821904,1993,female organism
+Q11289432,Air Shady,Q11289445,Q180387,2001,male organism
+Q11289434,Air Shakur,missing,Q180387,1997,male organism
+Q11289435,Air Jihad,missing,Q11304531,1995,male organism
+Q11289439,エアスマップ,missing,Q1005468,1995,male organism
+Q11289442,Air Dublin,Q11317464,Q7821904,1991,male organism
+Q11289444,エアトゥーレ,Q11311439,Q7821904,1997,female organism
+Q11289445,エアデジャヴー,missing,Q7059024,1995,female organism
+Q11289452,エアパスカル,missing,Q7968431,2005,female organism
+Q11289486,エアメサイア,Q11289445,Q180387,2002,female organism
+Q11289546,エイシンガイモン,missing,Q7442093,1993,male organism
+Q11289547,エイシンアポロン,missing,Q3105301,2007,male organism
+Q11289548,エイシンサニー,missing,Q11342941,1987,female organism
+Q11289549,エイシンキャメロン,missing,Q8027965,1996,male organism
+Q11289550,エイシンサンディ,missing,Q180387,1993,male organism
+Q11289551,Eishin Dunkirk,missing,Q1104649,1997,male organism
+Q11289552,エイシンチャンプ,missing,missing,2000,male organism
+Q11289553,エイシンテネシー,missing,Q11351856,1989,female organism
+Q11289554,Eishin Deputy,missing,Q11334069,2002,male organism
+Q11289555,エイシンテンダー,missing,Q11289550,2002,female organism
+Q11289556,エイシンドーバー,missing,Q7927493,2002,male organism
+Q11289557,エイシンニーザン,missing,Q5472988,2002,male organism
+Q11289559,エイシンバーリン,missing,Q5180163,1992,female organism
+Q11289561,エイシンボストン,missing,missing,2002,missing
+Q11289562,Eishin Flash,missing,Q6410851,2007,male organism
+Q11289563,エイシンロンバード,missing,Q7927493,2002,male organism
+Q11289564,エイシンワシントン,missing,Q7080320,1991,male organism
+Q11289572,Asian Winds,missing,Q11333106,2004,female organism
+Q11289584,エイダイクイン,Q11345567,Q6810492,1995,female organism
+Q11289595,エイティトウショウ,missing,Q11317526,1978,female organism
+Q11289602,Eight Crown,missing,Q11330399,1962,female organism
+Q11289687,エガオヲミセテ,missing,Q180387,1995,female organism
+Q11290025,Escape Hatch,missing,Q11342022,2000,male organism
+Q11290029,エスコリアル,missing,missing,1955,male organism
+Q11290102,エスプリシーズ,missing,Q11294024,1999,male organism
+Q11290177,Atan,missing,Q1076143,1961,male organism
+Q11290529,エピセアローム,missing,Q11317065,2009,female organism
+Q11290535,Epiphaneia,Q11308798,Q7661156,2010,male organism
+Q11290665,エフティマイア,missing,Q11333106,2005,female organism
+Q11290770,エムアイブラン,missing,Q4962908,1992,male organism
+Q11290779,MS World,missing,Q11312249,2003,male organism
+Q11290858,エモシオン,Q11284114,Q7821904,1995,male organism
+Q11290979,エリモシック,missing,Q3013377,1993,female organism
+Q11290980,エリモエクセル,missing,Q7357442,1995,female organism
+Q11290981,エリモジョージ,missing,Q11314763,1972,male organism
+Q11290983,エリモハリアー,missing,Q3100542,2000,missing
+Q11290986,エリモダンディー,missing,Q4962908,1994,male organism
+Q11290987,エリモローラ,missing,missing,1979,male organism
+Q11290995,Erin Court,missing,Q10932646,2008,female organism
+Q11291016,L-Way Win,missing,Q2932844,1990,male organism
+Q11291017,エルカーサリバー,missing,Q11328455,1989,female organism
+Q11291050,El Senor,missing,missing,1984,male organism
+Q11291072,Hernando,missing,Q17012529,1990,male organism
+Q11291079,Herbager,missing,Q61970520,1956,male organism
+Q11291100,エルプス,missing,Q11340052,1982,female organism
+Q11291183,Tukioka,Q22002352,Q4252720,1932,female organism
+Q11291255,Helene,missing,Q11316799,2007,female organism
+Q11291418,End Sweep,missing,Q5472988,1991,male organism
+Q11291467,Emperor Jones,missing,Q1104509,1990,male organism
+Q11291528,エーシンディーエス,missing,Q5252233,2005,male organism
+Q11291529,エーシントップ,missing,Q11319116,2010,male organism
+Q11291530,エーシンモアオバー,missing,Q11341616,2006,male organism
+Q11291531,A Shin Forward,missing,missing,2005,male organism
+Q11291532,エーシンヴァーゴウ,missing,Q5431678,2007,female organism
+Q11291691,オウケンブルースリ,missing,Q11310148,2005,male organism
+Q11291692,Oken Sakura,Q11347615,Q2879150,2007,female organism
+Q11291695,オウシュウクラウン,missing,Q11309134,2003,missing
+Q11291734,オウンオピニオン,missing,missing,1975,male organism
+Q11291850,オキノサキガケ,missing,missing,1978,male organism
+Q11291893,オグリワン,missing,Q7080301,1992,male organism
+Q11291894,Oguri Roman,Q11338112,Q11335047,1991,female organism
+Q11291911,オサイチジョージ,missing,Q11342941,1986,male organism
+Q11292054,オディール,missing,Q11299831,2005,female organism
+Q11292157,Honest Lady,Q7829411,Q1457136,1996,female organism
+Q11292162,オノユウ,missing,Q11328013,2007,female organism
+Q11292195,オパールオーキツト,missing,missing,1950,female organism
+Q11292216,オフィサー,missing,Q4895908,1999,male organism
+Q11292282,オフサイドトラップ,missing,Q7821904,1991,male organism
+Q11292346,オペックホース,missing,Q11348445,1977,male organism
+Q11292347,オペラシチー,missing,Q7096598,2001,male organism
+Q11292547,Oriental Art,missing,Q6810492,1997,female organism
+Q11292564,オリエンタルロック,missing,Q11341616,2005,male organism
+Q11292586,オリオンザサンクス,missing,Q11307869,1996,male organism
+Q11292590,オリオンホース,missing,Q11321199,1960,male organism
+Q11292827,Ortello,missing,Q7693967,1926,male organism
+Q11292907,Orewa Matteruze,missing,Q180387,2000,male organism
+Q11292937,オレンジピール,missing,Q180387,1994,female organism
+Q11293013,オンスロート,missing,missing,1957,male organism
+Q11293042,On Fire,Q11288432,Q180387,2003,male organism
+Q11293075,オンワードガイ,missing,missing,1968,male organism
+Q11293076,オンワードゼア,Q11321150,missing,1954,male organism
+Q11293078,オンワードボルガ,missing,Q17224311,1981,male organism
+Q11293113,オーエンス,missing,Q7594020,1946,male organism
+Q11293199,オーシス,missing,Q11321111,1931,male organism
+Q11293211,Ocean Blue,missing,Q11312249,2008,male organism
+Q11293249,オースミイチバン,Q11293255,Q4693122,2009,male organism
+Q11293250,Osumi Grass One,missing,Q11300176,2002,male organism
+Q11293251,オースミシャダイ,missing,Q7301055,1986,male organism
+Q11293252,Osumi Jet,missing,Q11309134,1994,male organism
+Q11293253,オースミタイクーン,missing,Q6494747,1991,male organism
+Q11293254,オースミダイドウ,missing,Q11312941,2004,male organism
+Q11293255,オースミハルカ,missing,Q11333076,2000,female organism
+Q11293256,Osumi Dyna,missing,Q11298246,1988,male organism
+Q11293258,オースミブライト,missing,Q6494747,1996,missing
+Q11293259,オースミレパード,missing,Q11285398,1991,male organism
+Q11293269,オータジマ,missing,Q11321199,1955,male organism
+Q11293294,オーテモン,missing,Q11346360,1955,male organism
+Q11293321,Otokitsu,Q11321150,Q11516006,1952,male organism
+Q11293437,Obruchev,missing,Q11341083,2009,male organism
+Q11293451,オープンガーデン,missing,Q11303790,2004,male organism
+Q11293559,オールウェイズロイヤル,Q11328195,Q8071945,1994,female organism
+Q11293629,Old Bald Peg,missing,missing,missing,female organism
+Q11293630,オールドマン,missing,missing,1901,male organism
+Q11293730,Oro Meister,missing,Q11303924,2005,male organism
+Q11293802,カイソウ,missing,Q11516006,1941,male organism
+Q11293803,Caitano,missing,missing,1994,male organism
+Q11293894,カウンテスアップ,missing,Q11332797,1981,male organism
+Q11294024,Cacoethes,missing,Q4738646,1986,male organism
+Q11294086,カシマウイング,missing,Q1042741,1983,male organism
+Q11294094,カシュウチカラ,missing,Q11294566,1973,male organism
+Q11294309,カツアール,missing,missing,1976,male organism
+Q11294321,カツシロ,missing,missing,1948,male organism
+Q11294323,カツトップエース,missing,Q11285909,1978,male organism
+Q11294327,Katsuragi Ace,missing,missing,1980,male organism
+Q11294328,カツラギハイデン,missing,Q4850474,1983,male organism
+Q11294329,カツラシユウホウ,missing,Q11335651,1955,male organism
+Q11294330,Katsuranohaiseiko,missing,Q5639650,1976,male organism
+Q11294494,カネケヤキ,missing,missing,1961,female organism
+Q11294504,カネツクロス,missing,Q11316319,1991,male organism
+Q11294505,カネツフルーヴ,Q11350340,Q7134267,1997,male organism
+Q11294508,カネトシガバナー,missing,Q11285398,1995,male organism
+Q11294512,カネヒムロ,missing,Q11329825,1968,female organism
+Q11294519,カネミノブ,Q11294512,missing,1974,male organism
+Q11294537,カノヤザクラ,missing,Q11304520,2004,female organism
+Q11294560,カバリエリエース,missing,missing,1978,female organism
+Q11294566,Cover Up II,missing,missing,1952,male organism
+Q11294585,カフェオリンポス,missing,Q5595099,2001,male organism
+Q11294617,カブトシロー,missing,missing,1962,male organism
+Q11294629,カブトヤマ,Q11283518,Q11306904,1930,male organism
+Q11294631,カブラヤオー,missing,missing,1972,male organism
+Q11294733,カミノクレッセ,missing,Q11285398,1987,male organism
+Q11294735,カミノタサハラ,missing,Q730381,2010,male organism
+Q11294738,カミノテシオ,missing,Q11343230,1970,male organism
+Q11294786,Kamsin,missing,missing,2005,male organism
+Q11294957,Kalamoun,missing,Q11314922,1970,male organism
+Q11295011,カリスタグローリ,missing,Q11335047,1988,male organism
+Q11295046,カリブソング,missing,missing,1986,male organism
+Q11295121,Kaldoun,missing,Q5044188,1975,male organism
+Q11295179,カルラネイチャー,missing,Q4962908,1991,male organism
+Q11295262,Curren Chan,missing,Q11299831,2007,female organism
+Q11295268,Curren Black Hill,missing,Q11317065,2009,male organism
+Q11295327,カワカミプリンセス,missing,Q11297913,2003,female organism
+Q11295448,Canterbury Pilgrim,missing,missing,missing,female organism
+Q11295514,カンパニー,missing,Q11342787,2001,male organism
+Q11295519,Kampala,missing,Q11294957,1976,male organism
+Q11295533,Camphor Best,missing,Q11285398,1999,male organism
+Q11295571,カヴァリエーレ・ダルピーノ,missing,missing,1926,male organism
+Q11295679,Carnegie,Q16835107,Q1104636,1991,male organism
+Q11295685,カーネルシンボリ,missing,Q11329825,1971,male organism
+Q11295735,カーム,missing,Q180387,2000,male organism
+Q11295746,Carling,missing,Q11296303,1992,female organism
+Q11296289,Galgo Jr.,missing,missing,1928,male organism
+Q11296295,Gulch,missing,Q1104649,1984,male organism
+Q11296303,Garde Royale,missing,Q3314241,1980,male organism
+Q11296312,ガルボ,missing,Q11341616,2007,male organism
+Q11296343,ガロン,missing,missing,1909,male organism
+Q11296496,ガヴアナー,Q11283518,Q11306904,1932,male organism
+Q11296502,Guersant,missing,missing,1949,male organism
+Q11296536,ガーネツト,missing,Q11321199,1955,female organism
+Q11296624,Kikuno Salire,missing,Q11309134,2005,male organism
+Q11296625,キクノハッピー,missing,missing,1968,male organism
+Q11296638,キサスキサスキサス,missing,Q7442093,1998,missing
+Q11296646,キシュウローレル,missing,missing,1970,female organism
+Q11296650,Quijano,missing,Q338164,2002,missing
+Q11296651,キジョージャンボ,missing,missing,2000,missing
+Q11296674,Kiss to Heaven,missing,Q17221619,2003,female organism
+Q11296691,Kizuna,missing,Q730381,2010,male organism
+Q11296721,キタシバスペイン,missing,missing,1987,male organism
+Q11296726,キタノオー,missing,Q11321199,1953,male organism
+Q11296727,キタノオーザ,missing,Q11321199,1957,male organism
+Q11296728,キタノカチドキ,missing,Q11319254,1971,male organism
+Q11296729,キタノダイオー,Q11296730,missing,1965,male organism
+Q11296730,Kitano Hikari,missing,Q11321199,1954,female organism
+Q11297172,キャニオンロマン,missing,Q11335047,1994,male organism
+Q11297210,キャプテントゥーレ,Q11289444,Q4693122,2005,male organism
+Q11297213,キャプテンナムラ,missing,Q7497845,1975,male organism
+Q11297350,キャンディデート,missing,missing,2002,male organism
+Q11297404,Cavalryman,missing,Q5643001,2006,male organism
+Q11297547,Cupid,missing,missing,1957,female organism
+Q11297554,キョウエイウオリア,missing,missing,1979,male organism
+Q11297555,キョウエイタップ,missing,missing,1987,female organism
+Q11297556,キョウエイプロミス,missing,Q4850474,1977,male organism
+Q11297557,キョウエイボーガン,missing,missing,1989,male organism
+Q11297564,キョウトシチー,missing,Q11304765,1991,male organism
+Q11297566,キョウワサンダー,missing,Q11314922,1981,female organism
+Q11297567,キョウワロアリング,missing,Q180387,2001,male organism
+Q11297568,キョウワダイキチ,missing,missing,1995,male organism
+Q11297597,キヨヒダカ,missing,missing,1978,male organism
+Q11297598,キヨフジ,missing,Q11298824,1948,female organism
+Q11297825,キンカイチフジ,missing,Q18016266,1981,male organism
+Q11297858,King Kamehameha,Q11341627,Q3197083,2001,male organism
+Q11297865,キンググローリアス,missing,missing,1986,male organism
+Q11297880,キングジョイ,missing,Q11341810,2002,male organism
+Q11297886,キングスエンブレム,Q11311363,Q7968431,2005,male organism
+Q11297888,Kingsgate Native,missing,missing,2005,missing
+Q11297889,キングストレイル,missing,Q180387,2002,male organism
+Q11297894,キングスポイント,Q11351291,Q11303118,1977,male organism
+Q11297901,Kingsbarns,missing,Q3094737,2010,male organism
+Q11297907,キングトップガン,missing,Q6796863,2003,male organism
+Q11297908,キングハイセイコー,missing,Q5639650,1981,male organism
+Q11297913,King Halo,Q11300124,Q3013377,1995,male organism
+Q11297929,Kinshasa No Kiseki,missing,Q11333106,2003,male organism
+Q11297933,キンタロー,missing,missing,1977,male organism
+Q11297939,キンテキ,missing,Q11306904,1933,male organism
+Q11297941,キンテン,missing,missing,1929,male organism
+Q11298001,Key of Luck,Q11328195,Q5096646,1991,male organism
+Q11298006,キーストン,missing,Q11315435,1962,male organism
+Q11298047,Keeneland Swan,missing,Q11320057,1999,male organism
+Q11298213,ギャラントダンサー,missing,Q5518868,1975,male organism
+Q11298246,Gallop Dyna,missing,Q7059024,1980,male organism
+Q11298272,Gustave Cry,Q11332014,Q4309360,2008,male organism
+Q11298318,ギルデッドエージ,missing,Q7804636,1997,male organism
+Q11298396,クィーンスプマンテ,missing,Q11310148,2004,female organism
+Q11298616,クォークスター,missing,Q4693122,2007,male organism
+Q11298647,クシロキング,missing,Q5272127,1982,male organism
+Q11298760,クニノハナ,missing,Q11325587,1967,female organism
+Q11298823,クモノハナ,missing,Q11335651,1947,male organism
+Q11298824,Kumohata,Q22002335,Q11321111,1936,male organism
+Q11298827,Okataka,Q11291183,Q11314399,1948,female organism
+Q11298847,クライムカイザー,missing,Q11352175,1973,male organism
+Q11298894,Crowded House,missing,Q3417786,2006,male organism
+Q11298905,Crown Attorney,missing,Q7516003,1993,male organism
+Q11298908,クラウンピラード,Q11289602,missing,1973,male organism
+Q11298915,クラキンコ,missing,missing,2007,female organism
+Q11299084,クラレント,missing,Q5215257,2009,male organism
+Q11299108,クラーベセクレタ,missing,Q11351244,2008,female organism
+Q11299186,クリスザブレイヴ,missing,Q7059024,1994,male organism
+Q11299199,Crystal Glitters,missing,Q2907399,1980,male organism
+Q11299205,Crystal Palace,missing,Q5044188,1974,male organism
+Q11299394,クリノハナ,missing,Q11335651,1949,male organism
+Q11299569,クレオパトラトマス,missing,missing,1932,female organism
+Q11299697,Kurokami,missing,Q2932844,1993,female organism
+Q11299703,Croco Rouge,missing,Q3417786,1995,male organism
+Q11299831,Kurofune,missing,Q11334069,1998,male organism
+Q11299832,クロフネサプライズ,missing,Q11299831,2010,female organism
+Q11299933,クワイエットデイ,missing,missing,2000,male organism
+Q11299981,クーリンガー,missing,Q5472988,1999,male organism
+Q11299986,クールジョイ,missing,missing,1998,male organism
+Q11299997,クーヴェルチュール,missing,Q11334556,2004,female organism
+Q11300124,Goodbye Halo,Q22282426,Q5643313,1985,female organism
+Q11300176,Grass Wonder,missing,Q11308429,1995,male organism
+Q11300191,Gladiatorus,missing,missing,2005,male organism
+Q11300282,Grandezza,missing,missing,2009,male organism
+Q11300295,グランドエキノクス,missing,missing,1998,male organism
+Q11300297,グランドオペラ,Q5571543,Q26798,1984,male organism
+Q11300349,グランドマーチス,missing,Q11325587,1969,male organism
+Q11300352,グランドライト,missing,Q11316729,1939,male organism
+Q11300372,Grandpa's Dream,missing,Q11294631,1983,male organism
+Q11300390,グランプリエンゼル,missing,Q11283071,2006,female organism
+Q11300395,グランプリボス,missing,Q11304520,2008,male organism
+Q11300417,グランリーオ,missing,Q11304933,2000,male organism
+Q11300491,グリンダイオー,missing,Q11321754,1987,male organism
+Q11300495,グリンモリー,missing,Q11341313,1985,male organism
+Q11300536,Green Chateau,missing,Q5087563,1974,female organism
+Q11300574,Green Forest,missing,missing,1979,male organism
+Q11300654,グルメフロンティア,missing,missing,1992,male organism
+Q11300664,グルヴェイグ,Q11289428,Q730381,2008,female organism
+Q11300704,グレイスティアラ,missing,Q11333106,2003,female organism
+Q11300706,Grey Sovereign,missing,Q6967340,1948,male organism
+Q11300715,グレイトジャーニー,missing,Q180387,2001,male organism
+Q11300768,Grace Admire,Q11328242,Q7821904,1994,female organism
+Q11300788,グレートステージ,missing,Q11311410,2002,male organism
+Q11300789,グレートセイカン,missing,missing,1972,male organism
+Q11300793,グレートタイタン,missing,Q7497845,1975,male organism
+Q11300798,グレートホープ,missing,missing,1986,male organism
+Q11300800,グレートモンテ,missing,Q11344758,1985,male organism
+Q11300801,グレートヨルカ,missing,Q11329960,1960,male organism
+Q11300830,グレープブランデー,missing,Q11341616,2008,male organism
+Q11300981,ケアレス,missing,missing,missing,male organism
+Q11300985,Keiai Gerbera,missing,Q7544171,2006,female organism
+Q11300988,ケイエスミラクル,missing,missing,1988,male organism
+Q11300989,ケイエスヨシゼン,missing,Q11342035,1993,male organism
+Q11300994,ケイキロク,missing,missing,1977,female organism
+Q11301024,ケイティタイガー,missing,missing,1989,male organism
+Q11301026,Katies,missing,Q1042741,1981,female organism
+Q11301070,ケイワンバイキング,missing,missing,1993,missing
+Q11301164,ケニイモア,missing,Q11298824,1953,female organism
+Q11301225,ケルトス,missing,Q11301313,1998,male organism
+Q11301313,Kendor,missing,Q11301318,1986,male organism
+Q11301318,Kenmare,missing,Q11294957,1975,male organism
+Q11301477,ゲイタイム,missing,missing,1949,male organism
+Q11301481,Gay Mecene,missing,Q3553272,1975,male organism
+Q11301487,ゲイルスポート,missing,Q7059024,1979,male organism
+Q11301539,ゲシュタルト,missing,Q11341616,2007,male organism
+Q11301575,ゲットフルマークス,missing,Q11339766,2006,missing
+Q11301823,コイウタ,missing,Q11333106,2003,female organism
+Q11301835,Koiwai,Q22002348,missing,1908,male organism
+Q11301850,コウエイトライ,missing,Q7096598,2001,female organism
+Q11301854,コウザンハヤヒデ,missing,Q11321754,1997,male organism
+Q11301875,コウユウ,missing,Q11296502,1965,female organism
+Q11301911,コガネタイフウ,missing,Q11340052,1987,male organism
+Q11301914,コクオー,missing,missing,1934,female organism
+Q11302085,Cosmah,Q4733659,missing,1953,female organism
+Q11302101,コスモオオゾラ,missing,Q7368666,2009,male organism
+Q11302108,コスモサンビーム,missing,Q11306348,2001,male organism
+Q11302140,コスモドリーム,missing,missing,1985,female organism
+Q11302142,Cosmo Bulk,missing,Q11306348,2001,male organism
+Q11302146,Cosmo Phantom,missing,missing,2007,male organism
+Q11302152,コスモメドウ,missing,Q6410851,2007,missing
+Q11302158,Cosmo Valenti,missing,Q11339766,2002,female organism
+Q11302197,コダマ,Q11308271,missing,1957,male organism
+Q11302247,コディーノ,missing,Q11297858,2010,male organism
+Q11302252,コトノアサブキ,missing,missing,1975,male organism
+Q11302363,コパノフウジン,missing,Q11336442,2002,male organism
+Q11302431,Komatsu Hikari,Q11286498,Q11321199,1956,male organism
+Q11302495,コミックストリップ,missing,Q7304776,1995,missing
+Q11302847,コレヒデ,missing,missing,1962,male organism
+Q11302893,Coronation,missing,Q5729825,1946,female organism
+Q11302976,Kongō Rikishiō,missing,Q7622356,2002,male organism
+Q11302995,コンサートボーイ,missing,Q11294024,1992,male organism
+Q11303053,コンダクター,missing,missing,missing,male organism
+Q11303118,Contrite,missing,Q11325586,1968,male organism
+Q11303344,コーセイ,missing,Q11315708,1984,female organism
+Q11303412,コーネルランサー,missing,Q11314327,1971,male organism
+Q11303451,コーヨーチカラ,missing,missing,1973,male organism
+Q11303576,ゴスホークケン,missing,Q11328624,2005,male organism
+Q11303612,ゴッドスピード,missing,missing,1994,male organism
+Q11303707,ゴルトブリッツ,Q11349794,Q11312941,2007,male organism
+Q11303789,ゴーイングスズカ,missing,Q11316820,1993,missing
+Q11303790,ゴーカイ,Q11345553,Q11309878,1993,male organism
+Q11303808,ゴーゴーゼット,missing,Q11304765,1991,male organism
+Q11303868,ゴールデンウエーブ,missing,Q11342345,1951,male organism
+Q11303876,ゴールデンジャック,missing,Q11284680,1991,female organism
+Q11303885,Golden Ticket,missing,Q11297858,2006,male organism
+Q11303890,ゴールデンバージ,missing,missing,1997,male organism
+Q11303899,Golden Miller,missing,missing,1927,missing
+Q11303924,Gold Allure,missing,Q180387,1999,male organism
+Q11303925,ゴールドイーグル,missing,Q11294617,1970,male organism
+Q11303936,ゴールドシチー,missing,missing,1984,male organism
+Q11303941,ゴールドティアラ,missing,Q7445798,1996,female organism
+Q11303942,Gold Digger,missing,Q6966906,1962,female organism
+Q11303946,Goldfinder,missing,Q7547251,1764,male organism
+Q11303951,Gold Halo,missing,Q180387,1997,male organism
+Q11303952,Gold Head,missing,Q11307903,1995,male organism
+Q11303954,ゴールドマウンテン,missing,missing,1989,male organism
+Q11303962,Gold River,missing,Q3433509,1977,female organism
+Q11304073,Saiko Kirara,missing,Q11348665,1997,female organism
+Q11304119,サイドワインダー,Q11303876,Q7821904,1998,male organism
+Q11304250,サイレントディール,missing,Q180387,2000,male organism
+Q11304252,サイレントネーム,missing,Q180387,2002,male organism
+Q11304254,サイレントハピネス,missing,Q180387,1992,female organism
+Q11304256,サイレントハンター,missing,Q180387,1993,male organism
+Q11304258,サイレントプライド,missing,Q11334069,2003,male organism
+Q11304297,サウスヴィグラス,missing,Q11291418,1996,male organism
+Q11304401,サカモトデュラブ,missing,Q11320777,1993,male organism
+Q11304405,サカラート,Q11311363,Q11284680,2000,male organism
+Q11304462,サクセスビューティ,missing,Q180387,1999,female organism
+Q11304463,サクセスブロッケン,missing,missing,2005,missing
+Q11304489,サクライワイ,missing,missing,1971,female organism
+Q11304490,サクラエイコウオー,missing,Q11341313,1991,male organism
+Q11304494,サクラオリオン,missing,Q5351060,2002,male organism
+Q11304496,サクラキャンドル,missing,Q11304531,1992,female organism
+Q11304506,サクラショウリ,missing,Q11329825,1975,male organism
+Q11304507,Sakura Shingeki,missing,Q11323415,1977,male organism
+Q11304508,Sakura Star O,missing,Q11304506,1984,male organism
+Q11304509,Sakura Speed O,missing,Q11304524,1993,male organism
+Q11304510,Sakura Sedan,Q11313572,Q11314327,1972,female organism
+Q11304515,サクラチトセオー,missing,Q7821904,1995,male organism
+Q11304516,Sakura Chiyono O,Q11304510,Q11341313,1985,male organism
+Q11304517,サクラトウコウ,Q11304510,Q11341313,1981,male organism
+Q11304520,サクラバクシンオー,missing,Q11304531,1989,male organism
+Q11304522,サクラプレジデント,missing,Q180387,2000,male organism
+Q11304524,サクラホクトオー,missing,Q11321101,1986,male organism
+Q11304527,サクラメガワンダー,missing,Q11300176,2003,male organism
+Q11304531,Sakura Yutaka O,missing,Q11319254,1982,male organism
+Q11304534,Sakura Laurel,missing,Q3417786,1991,male organism
+Q11304739,サチカゼ,missing,Q11346360,1956,male organism
+Q11304741,サチノスイーティー,missing,Q11295011,2003,female organism
+Q11304742,サチヒカリ,missing,Q11316729,1948,male organism
+Q11304765,Soccer Boy,missing,Q11320008,1985,male organism
+Q11304870,サデックス,missing,Q1104636,2003,male organism
+Q11304891,サトノプログレス,missing,Q7676023,2005,male organism
+Q11304923,サニングデール,missing,Q7969814,1999,male organism
+Q11304930,サニーサンデー,missing,Q11341810,2006,male organism
+Q11304933,Sunny Brian,missing,Q4962908,1994,male organism
+Q11305013,Subject,missing,Q11333106,2005,male organism
+Q11305035,Surprise Power,missing,missing,1994,male organism
+Q11305044,Sahpresa,missing,missing,2005,female organism
+Q11305080,サマニベッピン,missing,Q7059024,1990,female organism
+Q11305091,Summer Wind,Q11308487,Q7676023,2005,male organism
+Q11305095,Summer Suspicion,Q11316840,Q180387,1992,male organism
+Q11305171,Samson Big,missing,Q11304506,1991,male organism
+Q11305202,サムライハート,Q11289428,Q180387,2002,male organism
+Q11305385,サルノキング,missing,missing,1979,male organism
+Q11305442,サンアディユ,missing,Q11334069,2002,female organism
+Q11305453,サンエイサンキュー,missing,Q11316824,1989,female organism
+Q11305454,サンエイソロン,missing,Q11329825,1978,male organism
+Q11305483,サンオーイ,missing,Q11348445,1980,male organism
+Q11305487,サンカルロ,missing,Q7661156,2006,male organism
+Q11305533,Sun Classique,missing,Q11333106,2003,female organism
+Q11305534,サンクリント,missing,missing,2000,male organism
+Q11305572,San San,missing,Q4850296,1969,female organism
+Q11305596,Sunshine Boy,missing,Q11319254,1974,male organism
+Q11305608,Sancy,missing,Q17361602,1969,male organism
+Q11305664,サンダルフォン,missing,Q11304520,2003,male organism
+Q11305671,Thunder Gulch,missing,Q11296295,1992,male organism
+Q11305704,Sun Zeppelin,missing,Q11319859,2004,missing
+Q11305711,サンテミリオン,missing,Q8069153,2007,female organism
+Q11305776,サンデーピクニック,missing,Q180387,1996,female organism
+Q11305778,Sunday Break,missing,Q5472988,1999,male organism
+Q11305864,サンドピアリス,missing,Q5639650,1986,female organism
+Q11305872,Sundridge,missing,missing,1898,male organism
+Q11305873,サンドリーズン,missing,missing,1987,male organism
+Q11305890,サンバコール,missing,missing,1995,male organism
+Q11305893,サンバレンティン,missing,Q11312941,2001,male organism
+Q11305945,サンプソン,missing,missing,missing,male organism
+Q11306034,Sunrise Bacchus,missing,Q11336442,2002,male organism
+Q11306038,サンライズプリンス,missing,Q4693122,2007,male organism
+Q11306039,サンライズペガサス,missing,Q180387,1998,male organism
+Q11306040,サンライズマックス,missing,Q11312249,2004,male organism
+Q11306084,サンレイジャスパー,missing,missing,2002,female organism
+Q11306159,Saga Novel,missing,Q11327513,1999,female organism
+Q11306236,Sir Peter Teazle,Q55091271,Q915971,1784,male organism
+Q11306326,ザカリヤ,missing,Q8064298,1996,male organism
+Q11306348,Zagreb,missing,Q7777558,1993,male organism
+Q11306375,That's The Plenty,missing,Q5215257,2000,male organism
+Q11306395,ザパルテノス,missing,missing,1981,female organism
+Q11306406,Zafisio,missing,missing,2006,missing
+Q11306420,Zamindar,missing,Q5581608,1994,male organism
+Q11306433,ザレマ,missing,Q5215257,2004,female organism
+Q11306863,Xaar,missing,Q8064298,1995,male organism
+Q11306904,Shian Mor,missing,Q17361624,1924,male organism
+Q11306934,シェイクスピア,missing,missing,missing,male organism
+Q11306983,Cheryl,missing,missing,1971,female organism
+Q11306984,Sheriff's Star,missing,Q17014262,1985,male organism
+Q11306993,Shell Game,missing,Q7653000,2001,male organism
+Q11306995,Shells Lei,missing,Q11299831,2003,female organism
+Q11307020,Schon wald,missing,Q11310148,2006,missing
+Q11307086,シクレノンシェリフ,missing,Q7301055,1990,male organism
+Q11307116,シゲルホームラン,missing,missing,1990,male organism
+Q11307162,Sister Sono,Q11350340,Q11323808,1991,female organism
+Q11307163,シスタートウショウ,missing,Q11321101,1988,female organism
+Q11307255,Six Sense,missing,Q180387,2002,male organism
+Q11307488,シビルウォー,missing,Q7968431,2005,male organism
+Q11307511,シプリアニ,missing,Q11325586,1958,male organism
+Q11307513,シベリアンホーク,missing,Q7577625,2000,male organism
+Q11307553,シマユキ,missing,Q11314399,1950,male organism
+Q11307653,シャコーグレイド,missing,Q11342021,1988,male organism
+Q11307661,シャダイアイバー,missing,Q7059024,1979,female organism
+Q11307662,シャダイカグラ,missing,Q7301055,1986,female organism
+Q11307663,シャダイソフィア,missing,Q7059024,1980,female organism
+Q11307708,シャドウゲイト,missing,Q11338126,2002,male organism
+Q11307775,Shalanaya,missing,missing,2006,female organism
+Q11307816,Sharrood,missing,Q5044188,1983,male organism
+Q11307826,Shawanda,missing,Q3485021,2002,female organism
+Q11307869,Shanghai,missing,missing,1989,male organism
+Q11307903,Shaadi,missing,Q1104509,1986,male organism
+Q11308061,シュンエイ,missing,Q11346360,1955,male organism
+Q11308122,ショウナンアルバ,missing,Q7968431,2005,male organism
+Q11308123,Syonan Kamp,missing,Q11304520,1998,male organism
+Q11308124,ショウナンタキオン,missing,Q4693122,2003,male organism
+Q11308125,ショウナンパントル,missing,Q180387,2002,female organism
+Q11308126,Shonan Mighty,missing,Q11341616,2008,male organism
+Q11308128,ショウリダバンザイ,missing,Q11335584,2007,female organism
+Q11308129,ショウリュウムーン,missing,Q11297858,2007,female organism
+Q11308135,ショウワモダン,missing,missing,2004,male organism
+Q11308267,シヨノロマン,missing,Q11348786,1985,female organism
+Q11308271,シラオキ,missing,Q11335651,1946,female organism
+Q11308284,Shirayukihime,missing,Q180387,1996,female organism
+Q11308291,Serious Attitude,missing,Q11343140,2006,female organism
+Q11308300,シリウスシンボリ,missing,Q11344265,1982,male organism
+Q11308324,Selene,missing,Q11318506,1919,female organism
+Q11308343,Silk Justice,missing,Q4962908,1994,male organism
+Q11308344,シルクテンザンオー,Q11342101,missing,1979,male organism
+Q11308347,シルクフェイマス,missing,Q11341810,1999,male organism
+Q11308348,シルクフォーチュン,missing,Q11303924,2006,male organism
+Q11308349,シルクブラボー,missing,Q5180163,2000,male organism
+Q11308350,シルクプリマドンナ,missing,Q4962908,1997,female organism
+Q11308353,シルクムーンライト,missing,Q11308344,1990,male organism
+Q11308354,Silk Mobius,missing,Q11312249,2006,male organism
+Q11308376,Silver Shark,missing,missing,1963,male organism
+Q11308382,Silver Spoon,missing,Q471395,1956,female organism
+Q11308389,シルバーブリツト,missing,Q11321754,1983,female organism
+Q11308393,Silver Lining,missing,missing,1973,missing
+Q11308394,シルバーランド,missing,Q7497845,1970,male organism
+Q11308423,シルポート,missing,missing,2005,male organism
+Q11308424,Silvano,missing,missing,1996,male organism
+Q11308427,シルヴァーフロスト,missing,missing,2006,male organism
+Q11308429,Silver Hawk,missing,Q7351567,1979,male organism
+Q11308430,シルヴァーロックス,missing,missing,missing,female organism
+Q11308475,シロベエ,Q11308284,Q11299831,2008,missing
+Q11308487,Shin Wind,missing,missing,1984,female organism
+Q11308488,シンウルフ,missing,Q11347077,1979,male organism
+Q11308491,シンカイウン,missing,missing,1992,male organism
+Q11308581,Shingen,missing,Q11338126,2003,male organism
+Q11308582,シンコウアンクレー,missing,missing,1986,male organism
+Q11308583,シンコウウインディ,missing,Q11320777,1993,male organism
+Q11308584,シンコウカリド,missing,Q11308429,1998,male organism
+Q11308585,シンコウキング,missing,Q5430970,1991,male organism
+Q11308587,シンコウスプレンダ,missing,Q5243161,1994,male organism
+Q11308589,Shinko Lovely,missing,Q2932844,1989,female organism
+Q11308590,シンコウフォレスト,missing,Q5602473,1993,male organism
+Q11308657,シンドバッド,missing,Q11304520,2000,male organism
+Q11308699,シンボリインディ,missing,Q1968208,1996,male organism
+Q11308700,シンボリクリエンス,missing,missing,1985,male organism
+Q11308701,シンボリグラン,missing,Q5594750,2002,missing
+Q11308702,シンボリモントルー,missing,Q11344265,1985,male organism
+Q11308703,Symboli Rudolf,missing,Q11329825,1981,male organism
+Q11308711,Shimmei Fuji,missing,Q11333106,2007,female organism
+Q11308715,シンモエダケ,missing,Q11307511,1969,female organism
+Q11308736,She is Tosho,missing,Q11304520,2000,female organism
+Q11308753,シーエース,missing,Q11326304,1964,female organism
+Q11308763,Seeking the Dia,Q11308764,Q3499832,2001,male organism
+Q11308764,Seeking the Pearl,missing,Q7445798,1994,female organism
+Q11308765,シーキングザベスト,missing,Q7445798,2001,male organism
+Q11308798,Cesario,missing,Q11312941,2002,female organism
+Q11308800,シーザー,missing,Q11326304,1957,male organism
+Q11308836,シーチャリオット,missing,Q7445798,2002,male organism
+Q11308879,C.B. Queen,missing,missing,1973,female organism
+Q11308880,C B Cross,missing,Q11332878,1975,male organism
+Q11308892,Sea Hawk,missing,Q11291079,1963,male organism
+Q11308902,シーマー,missing,Q11314399,1944,male organism
+Q11308935,シーロ,missing,Q8033082,1997,male organism
+Q11309078,ジェイエスホールド,missing,missing,2004,male organism
+Q11309134,Jade Robbery,missing,Q1104649,1987,male organism
+Q11309142,ジェイペグ,missing,missing,2003,male organism
+Q11309244,J'ai Deux Amours,missing,Q17116219,1986,female organism
+Q11309251,Genuine,missing,Q180387,1992,male organism
+Q11309336,Gemologist,missing,Q11318930,2009,male organism
+Q11309375,ジェルミナル,missing,Q4693122,2006,female organism
+Q11309502,ジグ,missing,missing,missing,male organism
+Q11309666,Giant Wrecker,missing,Q3105301,2002,male organism
+Q11309699,Jaguar Mail,missing,Q11310148,2004,male organism
+Q11309830,Jack Sullivan,missing,missing,2001,missing
+Q11309878,Judge Angelucci,missing,missing,1983,male organism
+Q11310101,Jalisco Light,missing,Q5434208,2003,male organism
+Q11310148,Jungle Pocket,missing,Q7821904,1998,male organism
+Q11310150,Jungle Rocket,missing,Q11310148,2005,female organism
+Q11310214,ジャンボキング,missing,missing,1973,male organism
+Q11310411,Jupiter Island,missing,Q7590888,1979,male organism
+Q11310433,ジュリア,missing,missing,missing,female organism
+Q11310487,ジユピターユートピア,missing,missing,1931,male organism
+Q11310545,ジョイーレ,missing,Q11343365,2003,male organism
+Q11310549,ジョウテンブレーヴ,missing,Q3013377,1997,male organism
+Q11310678,Jolie's Shinju,missing,Q11310679,2005,female organism
+Q11310679,Jolie's Halo,missing,Q5643313,1987,male organism
+Q11310680,Jolly Dance,missing,Q5215257,2001,female organism
+Q11310697,ジョワドヴィーヴル,Q11331056,Q730381,2009,female organism
+Q11310831,Jo Cappuccino,missing,Q11341616,2006,male organism
+Q11310853,ジョージモナーク,missing,Q11342941,1985,male organism
+Q11310900,ジョービッグバン,missing,Q180387,1995,male organism
+Q11311097,スイグン,missing,missing,2000,male organism
+Q11311124,Suiten,missing,missing,1902,male organism
+Q11311127,Swift Swallow,missing,Q1969034,1977,male organism
+Q11311128,スイフトセイダイ,missing,missing,1986,male organism
+Q11311170,Sweep Tosho,missing,Q11291418,2001,female organism
+Q11311176,スウィフトカレント,missing,Q180387,2001,male organism
+Q11311208,Swept Overboard,missing,Q11291418,1997,male organism
+Q11311219,スウヰイスー,missing,Q11314399,1949,female organism
+Q11311221,Suehiro Commander,Q11311223,Q5152210,1995,male organism
+Q11311223,スエヒロジョウオー,missing,missing,1990,female organism
+Q11311272,Sky Mesa,missing,Q7259595,2000,male organism
+Q11311360,Scarlet Ink,missing,Q5185707,1971,female organism
+Q11311361,Scarlet Bouquet,Q11311360,Q7059024,1988,female organism
+Q11311362,スカーレットリボン,Q11311360,Q7059024,1985,female organism
+Q11311363,Scarlet Lady,missing,Q180387,1995,female organism
+Q11311371,スガノオージ,missing,Q11304517,1991,male organism
+Q11311373,スガノホマレ,missing,Q7497845,1969,male organism
+Q11311404,Scatter the Gold,Q5215199,Q1104649,1997,male organism
+Q11311408,スキャパレリ,missing,Q1945364,2003,male organism
+Q11311410,Scan,missing,Q1104649,1988,male organism
+Q11311431,スキーキャプテン,missing,Q3499831,1992,male organism
+Q11311439,スキーパラダイス,missing,Q3269685,1990,female organism
+Q11311453,スギノハヤカゼ,missing,Q5275039,1993,male organism
+Q11311496,スクラムダイナ,missing,Q11320008,1982,male organism
+Q11311521,Screen Hero,missing,Q11300176,2004,male organism
+Q11311529,Squirt,missing,Q4865372,1732,male organism
+Q11311609,スゲヌマ,missing,missing,1935,male organism
+Q11311674,スズカコーズウェイ,missing,Q3105301,2004,male organism
+Q11311675,Suzukakoban,missing,Q11341313,1980,male organism
+Q11311676,Suzuka Phoenix,Q11350924,Q180387,2002,male organism
+Q11311677,Suzuka Mambo,missing,Q180387,2001,male organism
+Q11311762,スズノキャスター,missing,missing,1988,female organism
+Q11311764,スズパレード,missing,missing,1981,male organism
+Q11311789,スタイルパッチ,missing,missing,1950,female organism
+Q11311907,Stanerra,missing,missing,1978,female organism
+Q11312001,Star Affair,missing,Q7600767,1962,male organism
+Q11312008,Star King Man,missing,Q3197083,1999,male organism
+Q11312079,スターバレリーナ,missing,Q7336008,1990,female organism
+Q11312105,スターマン,missing,missing,1991,male organism
+Q11312118,Sterling Rose,missing,Q11284680,1997,male organism
+Q11312125,スターロツチ,missing,Q17224513,1957,female organism
+Q11312169,スダホーク,missing,Q11308892,1982,male organism
+Q11312212,スティンガー,missing,Q180387,1996,female organism
+Q11312238,Steel Heart,missing,Q11326627,1972,male organism
+Q11312249,Stay Gold,missing,Q180387,1994,male organism
+Q11312260,ステキシンスケクン,missing,Q1104509,2003,male organism
+Q11312361,ステージチャンプ,Q11316818,Q7301055,1990,male organism
+Q11312364,ステーツマン,missing,Q4925007,1930,male organism
+Q11312367,State Jaguar,missing,Q11305596,1981,male organism
+Q11312503,Strong Eight,missing,Q6072645,1969,male organism
+Q11312505,ストロングガルーダ,missing,Q5215257,2006,male organism
+Q11312509,ストロングブラッド,missing,Q11321082,1999,male organism
+Q11312511,ストロングリターン,missing,Q7661156,2006,male organism
+Q11312524,ストーミーカフェ,missing,Q17221619,2002,missing
+Q11312541,ストーンステッパー,missing,missing,1993,male organism
+Q11312651,スパイキュール,missing,Q180387,2000,male organism
+Q11312797,Speed Symboli,missing,missing,1963,male organism
+Q11312816,スピードワールド,missing,Q8033082,1994,male organism
+Q11312860,Spring Ghent,missing,Q7096598,2000,male organism
+Q11312922,スペクテイター,missing,missing,missing,male organism
+Q11312940,Special,missing,Q11332888,1969,female organism
+Q11312941,Special Week,missing,Q180387,1995,male organism
+Q11313235,スマイルジャック,missing,Q11316237,2005,male organism
+Q11313240,スマイルトゥモロー,missing,missing,1999,female organism
+Q11313273,Smadoun,missing,missing,1990,male organism
+Q11313274,スマノダイドウ,missing,missing,1970,male organism
+Q11313287,スマートファルコン,missing,Q11303924,2005,male organism
+Q11313288,スマートボーイ,missing,Q11283161,1995,male organism
+Q11313293,スマートロビン,missing,Q730381,2008,male organism
+Q11313394,Sri Pekan,missing,Q7304776,1992,male organism
+Q11313404,スリリングサンデー,Q11311361,Q180387,1996,male organism
+Q11313407,スリルショー,missing,missing,1983,male organism
+Q11313423,スリーオペレーター,missing,Q7096598,2003,male organism
+Q11313429,スリーコース,missing,Q11297865,1991,female organism
+Q11313432,スリージャイアンツ,missing,missing,1975,male organism
+Q11313448,スリープレスナイト,missing,Q11299831,2004,female organism
+Q11313457,スリーロールス,missing,Q5215257,2006,male organism
+Q11313465,スルガスンプジョウ,missing,missing,1971,male organism
+Q11313496,スルーオダイナ,missing,Q7059024,1984,male organism
+Q11313572,Swanswood Grove,missing,Q11300706,1960,female organism
+Q11313628,Suni,missing,missing,2006,male organism
+Q11313675,スーパーオトメ,missing,missing,1993,female organism
+Q11313702,Super Creek,missing,Q11325831,1985,male organism
+Q11313719,スーパーシンザン,missing,Q7497845,1987,male organism
+Q11313799,スーパーハリケーン,missing,Q11345211,2002,male organism
+Q11313854,スーパーペガサス,missing,missing,1996,male organism
+Q11313857,Super Hornet,missing,Q7357442,2003,male organism
+Q11314113,Seiun Wonder,missing,Q11300176,2006,male organism
+Q11314114,セイウンスカイ,missing,Q11306984,1995,male organism
+Q11314122,セイクリムズン,missing,Q11289550,2006,male organism
+Q11314150,セイユウ,missing,Q11346360,1954,male organism
+Q11314179,セカイオー,missing,Q17361614,1952,male organism
+Q11314216,セガンヂャ,missing,missing,1996,missing
+Q11314231,セキテイリュウオー,missing,Q11321101,1989,male organism
+Q11314327,Sedan,missing,missing,1955,male organism
+Q11314399,Theft,missing,Q7706757,1932,male organism
+Q11314492,セラフィックロンプ,missing,Q11341616,2004,female organism
+Q11314519,セリーセクレタリー,missing,Q7283646,1994,male organism
+Q11314628,Celestial Storm,missing,Q7351567,1983,male organism
+Q11314659,セレン,missing,Q11341810,2005,male organism
+Q11314717,Sendawar,missing,Q7245356,1996,male organism
+Q11314763,Saint Crespin,missing,Q4822299,1956,male organism
+Q11314768,St.Steven,missing,missing,1994,missing
+Q11314856,Sageburg,missing,Q6217141,2004,male organism
+Q11314922,Zeddaan,missing,Q11300706,1965,male organism
+Q11314942,Generalist,missing,Q1005468,1993,male organism
+Q11315049,Zenno El Cid,missing,Q2932844,1997,male organism
+Q11315060,ゼーアドラー,missing,missing,1936,male organism
+Q11315124,Social Butterfly,missing,Q8058830,1957,female organism
+Q11315384,Solitary King,Q11311363,Q11297858,2007,male organism
+Q11315435,Solonaway,missing,missing,1946,male organism
+Q11315452,Song of Wind,missing,Q5351060,2003,male organism
+Q11315477,Soviet Star,missing,Q3346473,1984,male organism
+Q11315479,ソヴリンパス,missing,Q11300706,1956,male organism
+Q11315674,タイキシャーロック,missing,Q11309134,1992,male organism
+Q11315675,タイキトレジャー,missing,Q11164164,1996,male organism
+Q11315676,タイキバカラ,missing,Q7569964,2001,male organism
+Q11315677,タイキファイヤー,Q11288587,Q11164164,1997,male organism
+Q11315678,タイキフォーチュン,missing,Q7442093,1993,male organism
+Q11315679,タイキブリザード,missing,Q1457136,1991,male organism
+Q11315693,タイセイアトム,missing,Q11304520,2003,male organism
+Q11315694,タイセイブレーヴ,missing,Q11304520,2001,male organism
+Q11315696,タイセイレジェンド,missing,Q11297858,2007,male organism
+Q11315708,Tai Tehm,missing,Q11314763,1969,male organism
+Q11315712,Tight Spot,missing,Q11330029,1987,male organism
+Q11315776,タイムパラドックス,missing,Q4962908,1998,male organism
+Q11315783,タイムライン,missing,Q11316007,1969,male organism
+Q11315809,タイヨウ,missing,Q11301477,1963,male organism
+Q11315901,タカイホーマ,missing,missing,1969,female organism
+Q11315902,タカエノカオリ,missing,Q11352175,1971,female organism
+Q11315904,タカオー,missing,Q11308902,1951,male organism
+Q11315964,タカマガハラ,missing,Q11299394,1957,male organism
+Q11315980,タカラコスモス,missing,Q11304507,1984,female organism
+Q11315983,タカラスチール,missing,Q11312238,1982,female organism
+Q11316005,タガノテイオー,missing,Q180387,1998,male organism
+Q11316006,タガノマイバッハ,missing,Q5215257,1999,male organism
+Q11316007,タガミホマレ,missing,missing,1962,male organism
+Q11316062,タケシバオー,missing,Q11318040,1965,male organism
+Q11316070,タケデンバード,missing,missing,1969,male organism
+Q11316072,タケノベルベット,missing,missing,1989,female organism
+Q11316073,タケノハナミ,missing,missing,1982,female organism
+Q11316076,タケフブキ,missing,Q11329825,1969,female organism
+Q11316079,タケホープ,missing,missing,1970,male organism
+Q11316080,タケミカヅチ,missing,Q11303924,2005,male organism
+Q11316104,タスカータソルテ,missing,Q11310148,2004,male organism
+Q11316129,タチカゼ,missing,Q11335651,1946,male organism
+Q11316184,Tap Dance City,missing,Q7203981,1997,male organism
+Q11316237,Tanino Gimlet,missing,Q4962908,1999,male organism
+Q11316239,タニノチカラ,missing,missing,1969,male organism
+Q11316240,タニノムーティエ,missing,Q11343230,1967,male organism
+Q11316241,タニノハローモア,missing,Q17224513,1965,male organism
+Q11316309,タマツバキ,missing,Q18236560,1945,male organism
+Q11316317,タマミ,missing,missing,1967,female organism
+Q11316318,タマモイナズマ,missing,Q11316319,1994,male organism
+Q11316319,Tamamo Cross,Q11300536,Q11308880,1984,male organism
+Q11316320,Tamamo Strong,Q11305864,Q11311410,1995,male organism
+Q11316321,Tamamo Support,missing,Q11316319,2003,missing
+Q11316322,タマモホットプレイ,missing,Q11333106,2001,male organism
+Q11316323,Tamayuz,missing,Q6983136,2005,male organism
+Q11316349,タムロチェリー,missing,Q7444446,1999,female organism
+Q11316382,タヤスツヨシ,missing,Q180387,1992,male organism
+Q11316436,タレンティドガール,missing,Q11348445,1984,female organism
+Q11316505,タンディチェイル,missing,Q11347088,1992,female organism
+Q11316557,ターター,missing,missing,missing,male organism
+Q11316614,ダイアナソロン,missing,Q11329825,1981,female organism
+Q11316636,Daiichi Ruby,Q11326269,Q11321101,1987,female organism
+Q11316729,Diolite,missing,missing,1927,male organism
+Q11316764,ダイゴホマレ,missing,Q11342345,1955,male organism
+Q11316765,ダイゴトツゲキ,missing,missing,1982,male organism
+Q11316775,ダイシンオレンジ,missing,Q11283071,2005,male organism
+Q11316776,ダイシンフブキ,missing,Q11323415,1983,male organism
+Q11316777,ダイシンボルガード,missing,missing,1966,male organism
+Q11316795,ダイタクバートラム,missing,Q5215257,1998,male organism
+Q11316796,Daitaku Helios,missing,Q11330652,1987,male organism
+Q11316798,Daitaku Yamato,missing,Q11316796,1994,male organism
+Q11316799,Daitaku Riva,missing,Q11333106,1997,male organism
+Q11316818,ダイナアクトレス,missing,Q7059024,1983,female organism
+Q11316819,Dyna Carle,missing,Q7059024,1980,female organism
+Q11316820,Dyna Gulliver,missing,Q7059024,1983,male organism
+Q11316821,ダイナコスモス,missing,missing,1983,male organism
+Q11316824,ダイナサンキュー,missing,Q7059024,1984,male organism
+Q11316831,Dyna Shoot,missing,Q7059024,1982,female organism
+Q11316839,ダイナナホウシユウ,missing,missing,1951,male organism
+Q11316840,Dyna Fairy,missing,Q7059024,1983,female organism
+Q11316850,ダイナマイトダディ,missing,Q11304531,1988,male organism
+Q11316887,ダイナレター,missing,Q7059024,1984,male organism
+Q11316895,ダイニホウシユウ,missing,Q11298824,1948,male organism
+Q11316963,ダイメイゴッツ,missing,missing,1990,male organism
+Q11316983,ダイヤモンドウェッディング,missing,missing,1905,male organism
+Q11317002,ダイヤモンドビコー,missing,Q180387,1998,female organism
+Q11317028,ダイユウサク,missing,Q1042741,1985,male organism
+Q11317053,ダイワエルシエーロ,Q11350837,Q180387,2001,female organism
+Q11317054,Daiwa Caerleon,Q11309244,Q2932844,1993,male organism
+Q11317057,ダイワテキサス,missing,missing,1993,male organism
+Q11317065,Daiwa Major,Q11311361,Q180387,2001,male organism
+Q11317066,ダイワルージュ,Q11311361,Q180387,1998,female organism
+Q11317069,ダイワワイルドボア,missing,Q4693122,2005,male organism
+Q11317144,ダスゲニー,missing,missing,1980,female organism

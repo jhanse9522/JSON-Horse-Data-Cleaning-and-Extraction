@@ -1,0 +1,5965 @@
+[{
+	"horse": "http://www.wikidata.org/entity/Q1001792",
+	"horseLabel": "Makybe Diva",
+	"mother": "http://www.wikidata.org/entity/Q14949904",
+	"father": "http://www.wikidata.org/entity/Q5263956",
+	"birthyear": "1999",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1005232",
+	"horseLabel": "Rock of Gibraltar",
+	"father": "http://www.wikidata.org/entity/Q1005468",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1005468",
+	"horseLabel": "Danehill",
+	"mother": "http://www.wikidata.org/entity/Q61987321",
+	"father": "http://www.wikidata.org/entity/Q1104509",
+	"birthyear": "1986",
+	"deathyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1012807",
+	"horseLabel": "Lammtarra",
+	"mother": "http://www.wikidata.org/entity/Q7548189",
+	"father": "http://www.wikidata.org/entity/Q26798",
+	"birthyear": "1992",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1016696",
+	"horseLabel": "Burmese",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1018502",
+	"horseLabel": "Byerley Turk",
+	"birthyear": "1684",
+	"deathyear": "1706",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1026641",
+	"horseLabel": "Caletto I",
+	"father": "http://www.wikidata.org/entity/Q1131753",
+	"birthyear": "1975",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1026643",
+	"horseLabel": "Caletto II",
+	"father": "http://www.wikidata.org/entity/Q1131753",
+	"birthyear": "1978",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10271114",
+	"horseLabel": "El Asteroide",
+	"birthyear": "1960"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1027559",
+	"horseLabel": "Calvaro Z",
+	"father": "http://www.wikidata.org/entity/Q1026641",
+	"birthyear": "1987",
+	"deathyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10276372",
+	"horseLabel": "Estensoro",
+	"birthyear": "1955"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10280226",
+	"horseLabel": "Farwell",
+	"birthyear": "1956"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10290268",
+	"horseLabel": "Glória de Campeão",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1032366",
+	"horseLabel": "Majestic Prince",
+	"mother": "http://www.wikidata.org/entity/Q61986019",
+	"father": "http://www.wikidata.org/entity/Q11349325",
+	"birthyear": "1966",
+	"deathyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10355915",
+	"horseLabel": "Quari Bravo",
+	"birthyear": "1994"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10401505",
+	"horseLabel": "Adrian Chip",
+	"birthyear": "2004"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1042741",
+	"horseLabel": "Nonoalco",
+	"father": "http://www.wikidata.org/entity/Q3307189",
+	"birthyear": "1971",
+	"deathyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10430773",
+	"horseLabel": "Björsells Briar 899"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10434730",
+	"horseLabel": "Brandklipparen"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10438085",
+	"horseLabel": "Butterfly Flip",
+	"father": "http://www.wikidata.org/entity/Q10656182",
+	"birthyear": "1991",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10453480",
+	"horseLabel": "Citation",
+	"birthyear": "2001"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10457469",
+	"horseLabel": "Commander Crowe",
+	"birthyear": "2003"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1048383",
+	"horseLabel": "Cassini I",
+	"birthyear": "1988",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10493183",
+	"horseLabel": "Expert Ox"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10499345",
+	"horseLabel": "From Above",
+	"birthyear": "1998"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10506996",
+	"horseLabel": "Going Kronos",
+	"birthyear": "2003"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1051250",
+	"horseLabel": "Catoki",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10518312",
+	"horseLabel": "Harry Boy"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10523962",
+	"horseLabel": "Hilda Zonett",
+	"birthyear": "1997"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10526537",
+	"horseLabel": "Hot Tub"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10527143",
+	"horseLabel": "Humorist",
+	"deathyear": "1921"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10533392",
+	"horseLabel": "Iceland",
+	"birthyear": "2004"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10534861",
+	"horseLabel": "Ina Scot",
+	"birthyear": "1989",
+	"deathyear": "2013"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10556424",
+	"horseLabel": "Legolas",
+	"birthyear": "1978",
+	"deathyear": "2004"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10575407",
+	"horseLabel": "Maharajah",
+	"birthyear": "2005"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1058802",
+	"horseLabel": "Dubai Millennium",
+	"father": "http://www.wikidata.org/entity/Q7445798",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10591868",
+	"horseLabel": "Mynta",
+	"father": "http://www.wikidata.org/entity/Q10656182",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1060692",
+	"horseLabel": "Chambertin",
+	"birthyear": "1993",
+	"deathyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10622318",
+	"horseLabel": "Peleng (häst)"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10650831",
+	"horseLabel": "Remington Crown",
+	"birthyear": "1993"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10651593",
+	"horseLabel": "Rex Rodney"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10656182",
+	"horseLabel": "Robin Z",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10660117",
+	"horseLabel": "Sahara Dynamite",
+	"birthyear": "2004"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10674599",
+	"horseLabel": "Speedy Crown"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10678152",
+	"horseLabel": "Steinlager",
+	"father": "http://www.wikidata.org/entity/Q11972363",
+	"birthyear": "1998"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10681657",
+	"horseLabel": "Streiff",
+	"deathyear": "1633",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10684844",
+	"horseLabel": "Svensk Travsport"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10704706",
+	"horseLabel": "Triton Sund",
+	"birthyear": "2001"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10711590",
+	"horseLabel": "Utter (häst)"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10714249",
+	"horseLabel": "Verner (travhäst)"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10715882",
+	"horseLabel": "Viola Silas",
+	"birthyear": "2006"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10717674",
+	"horseLabel": "Värmlandshäst"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10719522",
+	"horseLabel": "Wega",
+	"mother": "http://www.wikidata.org/entity/Q18202358",
+	"birthyear": "2001",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10719568",
+	"horseLabel": "Welsh ponny (sektion D)"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10720750",
+	"horseLabel": "Wyomisk vildhäst"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10724779",
+	"horseLabel": "Zoogin",
+	"birthyear": "1990"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10727020",
+	"horseLabel": "Çukurovahäst"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10727733",
+	"horseLabel": "Öselponny"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1076143",
+	"horseLabel": "Native Dancer",
+	"mother": "http://www.wikidata.org/entity/Q55079388",
+	"father": "http://www.wikidata.org/entity/Q7226614",
+	"birthyear": "1950",
+	"deathyear": "1967",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1083118",
+	"horseLabel": "Ruffian",
+	"mother": "http://www.wikidata.org/entity/Q7494198",
+	"father": "http://www.wikidata.org/entity/Q7318397",
+	"birthyear": "1972",
+	"deathyear": "1975",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1083357",
+	"horseLabel": "Goldikova",
+	"father": "http://www.wikidata.org/entity/Q4750541",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10879991",
+	"horseLabel": "Akeed Mofeed",
+	"father": "http://www.wikidata.org/entity/Q5310663",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10887476",
+	"horseLabel": "Floral Pegasus"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10894648",
+	"horseLabel": "Takeover Target",
+	"father": "http://www.wikidata.org/entity/Q5058531",
+	"birthyear": "1999",
+	"deathyear": "2015"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10901653",
+	"horseLabel": "Packing Winner",
+	"father": "http://www.wikidata.org/entity/Q8063464",
+	"birthyear": "2002"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10920078",
+	"horseLabel": "Johan Cruyff",
+	"father": "http://www.wikidata.org/entity/Q1005468",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10923648",
+	"horseLabel": "Helene Mascot",
+	"father": "http://www.wikidata.org/entity/Q3374316",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10932646",
+	"horseLabel": "Durandal",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1999",
+	"deathyear": "2013",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1093305",
+	"horseLabel": "Zarkava",
+	"father": "http://www.wikidata.org/entity/Q11306420",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10940455",
+	"horseLabel": "Uranus",
+	"birthyear": "1920",
+	"deathyear": "1945"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10942413",
+	"horseLabel": "Oriental Express",
+	"birthyear": "1993"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10942860",
+	"horseLabel": "Armada",
+	"father": "http://www.wikidata.org/entity/Q11321092",
+	"birthyear": "2001"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1096659",
+	"horseLabel": "Imperiál",
+	"birthyear": "1960",
+	"deathyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q10981990",
+	"horseLabel": "Asakusa Den'en",
+	"father": "http://www.wikidata.org/entity/Q7524216",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11007793",
+	"horseLabel": "Preakness",
+	"father": "http://www.wikidata.org/entity/Q370429",
+	"birthyear": "1867",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1101198",
+	"horseLabel": "Matchem",
+	"father": "http://www.wikidata.org/entity/Q5016340",
+	"birthyear": "1748",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11034408",
+	"horseLabel": "Yukichan",
+	"mother": "http://www.wikidata.org/entity/Q11308284",
+	"father": "http://www.wikidata.org/entity/Q11299831",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11039568",
+	"horseLabel": "Ambitious Dragon",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11041122",
+	"horseLabel": "Calstone Light O",
+	"father": "http://www.wikidata.org/entity/Q7969814",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1104509",
+	"horseLabel": "Danzig",
+	"mother": "http://www.wikidata.org/entity/Q61985951",
+	"father": "http://www.wikidata.org/entity/Q1969034",
+	"birthyear": "1977",
+	"deathyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1104636",
+	"horseLabel": "Sadler's Wells",
+	"mother": "http://www.wikidata.org/entity/Q11332612",
+	"father": "http://www.wikidata.org/entity/Q1969034",
+	"birthyear": "1981",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1104649",
+	"horseLabel": "Mr. Prospector",
+	"mother": "http://www.wikidata.org/entity/Q11303942",
+	"father": "http://www.wikidata.org/entity/Q11349325",
+	"birthyear": "1970",
+	"deathyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11120041",
+	"horseLabel": "Ultra Fantasy",
+	"birthyear": "2002"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11144439",
+	"horseLabel": "Shotover",
+	"father": "http://www.wikidata.org/entity/Q5741736",
+	"birthyear": "1879",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11147543",
+	"horseLabel": "Mr Vitality",
+	"birthyear": "1991"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11164164",
+	"horseLabel": "Miswaki",
+	"father": "http://www.wikidata.org/entity/Q1104649",
+	"birthyear": "1978",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11251240",
+	"horseLabel": "Whalebone",
+	"mother": "http://www.wikidata.org/entity/Q7162558",
+	"father": "http://www.wikidata.org/entity/Q7975736",
+	"birthyear": "1807",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q1127291",
+	"horseLabel": "Clever Hans"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282055",
+	"horseLabel": "Iron Look",
+	"father": "http://www.wikidata.org/entity/Q11284104",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282151",
+	"horseLabel": "Isinglass",
+	"mother": "http://www.wikidata.org/entity/Q61994307",
+	"father": "http://www.wikidata.org/entity/Q6086160",
+	"birthyear": "1890",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282173",
+	"horseLabel": "Icecapade",
+	"father": "http://www.wikidata.org/entity/Q3307189",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282257",
+	"horseLabel": "アイディンサマー",
+	"father": "http://www.wikidata.org/entity/Q11305095",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282362",
+	"horseLabel": "Ines Fujin",
+	"father": "http://www.wikidata.org/entity/Q11308892",
+	"birthyear": "1987",
+	"deathyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282404",
+	"horseLabel": "アイフル",
+	"father": "http://www.wikidata.org/entity/Q11314327",
+	"birthyear": "1971",
+	"deathyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282414",
+	"horseLabel": "Eye Popper",
+	"father": "http://www.wikidata.org/entity/Q11304765",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282424",
+	"horseLabel": "I'm Yours",
+	"father": "http://www.wikidata.org/entity/Q5431678",
+	"birthyear": "2009",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282462",
+	"horseLabel": "Irish Dance",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1990",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282471",
+	"horseLabel": "アイルトンシンボリ",
+	"father": "http://www.wikidata.org/entity/Q11308703",
+	"birthyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282483",
+	"horseLabel": "アイルラヴァゲイン",
+	"father": "http://www.wikidata.org/entity/Q5351060",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282509",
+	"horseLabel": "アインアイン",
+	"father": "http://www.wikidata.org/entity/Q11329799",
+	"birthyear": "1997",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282520",
+	"horseLabel": "アインブライド",
+	"father": "http://www.wikidata.org/entity/Q5152210",
+	"birthyear": "1995",
+	"deathyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282571",
+	"horseLabel": "アイーンベル",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282594",
+	"horseLabel": "Auslese",
+	"father": "http://www.wikidata.org/entity/Q11314942",
+	"birthyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282708",
+	"horseLabel": "アカネテンリュウ",
+	"father": "http://www.wikidata.org/entity/Q11318040",
+	"birthyear": "1966",
+	"deathyear": "1985",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282780",
+	"horseLabel": "アキヒロホマレ",
+	"birthyear": "1985",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282906",
+	"horseLabel": "Axion",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2003",
+	"deathyear": "2013",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11282996",
+	"horseLabel": "アクチブハトリ",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283008",
+	"horseLabel": "アクティブバイオ",
+	"father": "http://www.wikidata.org/entity/Q7096598",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283068",
+	"horseLabel": "アグネスカミカゼ",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283069",
+	"horseLabel": "アグネスゴールド",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283070",
+	"horseLabel": "Agnes Jedi",
+	"father": "http://www.wikidata.org/entity/Q11283074",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283071",
+	"horseLabel": "アグネスデジタル",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283072",
+	"horseLabel": "Agnes Flora",
+	"mother": "http://www.wikidata.org/entity/Q11283075",
+	"father": "http://www.wikidata.org/entity/Q707462",
+	"birthyear": "1987",
+	"deathyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283073",
+	"horseLabel": "アグネスラズベリ",
+	"father": "http://www.wikidata.org/entity/Q11289435",
+	"birthyear": "2001",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283074",
+	"horseLabel": "Agnes World",
+	"father": "http://www.wikidata.org/entity/Q1104509",
+	"birthyear": "1995",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283075",
+	"horseLabel": "Agnes Lady",
+	"mother": "http://www.wikidata.org/entity/Q11286483",
+	"father": "http://www.wikidata.org/entity/Q11348445",
+	"birthyear": "1976",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283108",
+	"horseLabel": "Again",
+	"father": "http://www.wikidata.org/entity/Q5215867",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283145",
+	"horseLabel": "アサカディフィート",
+	"birthyear": "1998"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283149",
+	"horseLabel": "アサクサキングス",
+	"father": "http://www.wikidata.org/entity/Q11338126",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283161",
+	"horseLabel": "Assatis",
+	"birthyear": "1985",
+	"deathyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283163",
+	"horseLabel": "アサデンコウ",
+	"birthyear": "1964",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283167",
+	"horseLabel": "アサヒエンペラー",
+	"birthyear": "1983",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283181",
+	"horseLabel": "Asahi Rising",
+	"father": "http://www.wikidata.org/entity/Q11350130",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283196",
+	"horseLabel": "アサホコ",
+	"father": "http://www.wikidata.org/entity/Q11329960",
+	"birthyear": "1960",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283200",
+	"horseLabel": "アサマユリ",
+	"father": "http://www.wikidata.org/entity/Q11338612",
+	"birthyear": "1959",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283205",
+	"horseLabel": "アサリユウセンプー",
+	"father": "http://www.wikidata.org/entity/Q11321754",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283249",
+	"horseLabel": "Asidero",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283406",
+	"horseLabel": "Adjudicating",
+	"father": "http://www.wikidata.org/entity/Q1104509",
+	"birthyear": "1987",
+	"deathyear": "2015",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283407",
+	"horseLabel": "Adjudi Mitsuo",
+	"father": "http://www.wikidata.org/entity/Q11283406",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283446",
+	"horseLabel": "アスコツト",
+	"father": "http://www.wikidata.org/entity/Q11318342",
+	"birthyear": "1928",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283487",
+	"horseLabel": "アステリモア",
+	"father": "http://www.wikidata.org/entity/Q11306904",
+	"birthyear": "1935",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283518",
+	"horseLabel": "アストラル",
+	"birthyear": "1921",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283546",
+	"horseLabel": "アストンマーチャン",
+	"father": "http://www.wikidata.org/entity/Q11284094",
+	"birthyear": "2004",
+	"deathyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283590",
+	"horseLabel": "Aswan",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283605",
+	"horseLabel": "アズマハンター",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283606",
+	"horseLabel": "アズマビヨンド",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283710",
+	"horseLabel": "Adam's Peak",
+	"father": "http://www.wikidata.org/entity/Q730381",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283748",
+	"horseLabel": "アチーブスター",
+	"father": "http://www.wikidata.org/entity/Q11307511",
+	"birthyear": "1969",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283903",
+	"horseLabel": "Ammirare",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11283960",
+	"horseLabel": "アトミックサンダー",
+	"father": "http://www.wikidata.org/entity/Q11343607",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284089",
+	"horseLabel": "Admire Aura",
+	"mother": "http://www.wikidata.org/entity/Q11331056",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2004",
+	"deathyear": "2015",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284091",
+	"horseLabel": "Admise",
+	"father": "http://www.wikidata.org/entity/Q11325975",
+	"birthyear": "1992",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284092",
+	"horseLabel": "Admire Groove",
+	"mother": "http://www.wikidata.org/entity/Q11289428",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2000",
+	"deathyear": "2012",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284093",
+	"horseLabel": "アドマイヤキッス",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2003",
+	"deathyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284094",
+	"horseLabel": "Admire Cozzene",
+	"father": "http://www.wikidata.org/entity/Q5180163",
+	"birthyear": "1996",
+	"deathyear": "2017",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284095",
+	"horseLabel": "Admire Sunday",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1995",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284096",
+	"horseLabel": "アドマイヤコマンド",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2005"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284097",
+	"horseLabel": "Admire Japan",
+	"mother": "http://www.wikidata.org/entity/Q11331056",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284098",
+	"horseLabel": "アドマイヤジュピタ",
+	"father": "http://www.wikidata.org/entity/Q11334069",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284099",
+	"horseLabel": "アドマイヤスバル",
+	"father": "http://www.wikidata.org/entity/Q11284104",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284100",
+	"horseLabel": "Admire Big",
+	"mother": "http://www.wikidata.org/entity/Q11309244",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284102",
+	"horseLabel": "アドマイヤフジ",
+	"father": "http://www.wikidata.org/entity/Q17221619",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284103",
+	"horseLabel": "Admire Hope",
+	"father": "http://www.wikidata.org/entity/Q5472988",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284104",
+	"horseLabel": "Admire Boss",
+	"mother": "http://www.wikidata.org/entity/Q11336820",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284105",
+	"horseLabel": "Admire Max",
+	"mother": "http://www.wikidata.org/entity/Q11316831",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284106",
+	"horseLabel": "Admire Main",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284114",
+	"horseLabel": "アドラーブル",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1989",
+	"deathyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284198",
+	"horseLabel": "Anabaa Blue",
+	"father": "http://www.wikidata.org/entity/Q4750541",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284322",
+	"horseLabel": "アニメイトバイオ",
+	"father": "http://www.wikidata.org/entity/Q8069153",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284509",
+	"horseLabel": "Apapane",
+	"father": "http://www.wikidata.org/entity/Q11297858",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284604",
+	"horseLabel": "アフェクトダンサー",
+	"birthyear": "1989",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284651",
+	"horseLabel": "After Market",
+	"father": "http://www.wikidata.org/entity/Q3499832",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284668",
+	"horseLabel": "African Rose",
+	"father": "http://www.wikidata.org/entity/Q7075459",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284680",
+	"horseLabel": "Afleet",
+	"father": "http://www.wikidata.org/entity/Q1104649",
+	"birthyear": "1984",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284700",
+	"horseLabel": "Absolute",
+	"mother": "http://www.wikidata.org/entity/Q11335374",
+	"father": "http://www.wikidata.org/entity/Q11316237",
+	"birthyear": "2004"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284748",
+	"horseLabel": "アプリコットフィズ",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284753",
+	"horseLabel": "Après un rêve",
+	"mother": "http://www.wikidata.org/entity/Q11350094",
+	"father": "http://www.wikidata.org/entity/Q7661156",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284801",
+	"horseLabel": "アポインテッドデイ",
+	"father": "http://www.wikidata.org/entity/Q7304776",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284813",
+	"horseLabel": "Apollo Kingdom",
+	"father": "http://www.wikidata.org/entity/Q6521306",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284817",
+	"horseLabel": "アポロドルチェ",
+	"father": "http://www.wikidata.org/entity/Q11292216",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11284845",
+	"horseLabel": "Amazon Warrior",
+	"father": "http://www.wikidata.org/entity/Q6399291",
+	"birthyear": "1960",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285005",
+	"horseLabel": "Amuro",
+	"father": "http://www.wikidata.org/entity/Q11334538",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285065",
+	"horseLabel": "American Boss",
+	"father": "http://www.wikidata.org/entity/Q3197083",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285192",
+	"horseLabel": "アヤパン",
+	"father": "http://www.wikidata.org/entity/Q11334556",
+	"birthyear": "2003",
+	"deathyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285199",
+	"horseLabel": "アユサン",
+	"father": "http://www.wikidata.org/entity/Q730381",
+	"birthyear": "2010",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285232",
+	"horseLabel": "アラシ",
+	"birthyear": "1989",
+	"deathyear": "2011"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285326",
+	"horseLabel": "アンドレアモン",
+	"father": "http://www.wikidata.org/entity/Q11348502",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285398",
+	"horseLabel": "Amber Shadai",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1977",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285402",
+	"horseLabel": "アンパサンド",
+	"father": "http://www.wikidata.org/entity/Q11332400",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285430",
+	"horseLabel": "アンブラスモア",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285436",
+	"horseLabel": "Ampere",
+	"father": "http://www.wikidata.org/entity/Q11351244",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285454",
+	"horseLabel": "Unrivaled",
+	"mother": "http://www.wikidata.org/entity/Q11328242",
+	"father": "http://www.wikidata.org/entity/Q11325271",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285505",
+	"horseLabel": "アヴェンチュラ",
+	"mother": "http://www.wikidata.org/entity/Q11284095",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285511",
+	"horseLabel": "Havresac",
+	"father": "http://www.wikidata.org/entity/Q11347361",
+	"birthyear": "1915",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285527",
+	"horseLabel": "アーキペンコ",
+	"father": "http://www.wikidata.org/entity/Q3197083",
+	"birthyear": "2004",
+	"deathyear": "2017",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285690",
+	"horseLabel": "アーネストリー",
+	"father": "http://www.wikidata.org/entity/Q11300176",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285709",
+	"horseLabel": "アーバニティ",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285774",
+	"horseLabel": "アーリーロブスト",
+	"father": "http://www.wikidata.org/entity/Q11328013",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285855",
+	"horseLabel": "Iide Kenshin",
+	"father": "http://www.wikidata.org/entity/Q11305671",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285901",
+	"horseLabel": "イエリユウ",
+	"father": "http://www.wikidata.org/entity/Q11321111",
+	"birthyear": "1937",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11285909",
+	"horseLabel": "イエローゴッド",
+	"father": "http://www.wikidata.org/entity/Q7304192",
+	"birthyear": "1967",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286412",
+	"horseLabel": "イクスキューズ",
+	"father": "http://www.wikidata.org/entity/Q4947930",
+	"birthyear": "2004",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286426",
+	"horseLabel": "イクノディクタス",
+	"father": "http://www.wikidata.org/entity/Q11320008",
+	"birthyear": "1987",
+	"deathyear": "2019",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286434",
+	"horseLabel": "Igugu",
+	"father": "http://www.wikidata.org/entity/Q3094737",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286479",
+	"horseLabel": "イコピコ",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2006",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286483",
+	"horseLabel": "Ikoma Eikan",
+	"birthyear": "1967",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286497",
+	"horseLabel": "イサハヤ",
+	"birthyear": "1929",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286498",
+	"horseLabel": "Isabelline",
+	"birthyear": "1944",
+	"deathyear": "1978",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286543",
+	"horseLabel": "イシノアラシ",
+	"birthyear": "1972",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286544",
+	"horseLabel": "イシノサンデー",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286545",
+	"horseLabel": "イシノヒカル",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286652",
+	"horseLabel": "イソノルーブル",
+	"father": "http://www.wikidata.org/entity/Q11346734",
+	"birthyear": "1988",
+	"deathyear": "2013",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286690",
+	"horseLabel": "イタリアンレッド",
+	"father": "http://www.wikidata.org/entity/Q11325271",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286766",
+	"horseLabel": "イチフジイサミ",
+	"birthyear": "1970",
+	"deathyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286800",
+	"horseLabel": "Itto",
+	"mother": "http://www.wikidata.org/entity/Q11342101",
+	"father": "http://www.wikidata.org/entity/Q11352175",
+	"birthyear": "1971",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286810",
+	"horseLabel": "イツセイ",
+	"father": "http://www.wikidata.org/entity/Q11314399",
+	"birthyear": "1948",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286881",
+	"horseLabel": "Inazuma Amaryllis",
+	"father": "http://www.wikidata.org/entity/Q11311221",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286884",
+	"horseLabel": "イナズマタカオー",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286895",
+	"horseLabel": "イナリトウザイ",
+	"birthyear": "1971",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286896",
+	"horseLabel": "イナリワン",
+	"father": "http://www.wikidata.org/entity/Q11342941",
+	"birthyear": "1984",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286959",
+	"horseLabel": "イブキマイカグラ",
+	"father": "http://www.wikidata.org/entity/Q7301055",
+	"birthyear": "1988",
+	"deathyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11286960",
+	"horseLabel": "イブキライズアップ",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287115",
+	"horseLabel": "Immortal Verse",
+	"father": "http://www.wikidata.org/entity/Q11331695",
+	"birthyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287234",
+	"horseLabel": "イルーシヴピムパーネル",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287341",
+	"horseLabel": "Ingrandire",
+	"father": "http://www.wikidata.org/entity/Q11338126",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287429",
+	"horseLabel": "Intaglio",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287457",
+	"horseLabel": "インターグロリア",
+	"father": "http://www.wikidata.org/entity/Q11325587",
+	"birthyear": "1974",
+	"deathyear": "1995",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287555",
+	"horseLabel": "インターマイウェイ",
+	"father": "http://www.wikidata.org/entity/Q11324558",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287566",
+	"horseLabel": "インターレジェンダ",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1998"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287578",
+	"horseLabel": "Intikhab",
+	"father": "http://www.wikidata.org/entity/Q7304776",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287579",
+	"horseLabel": "インティライミ",
+	"father": "http://www.wikidata.org/entity/Q11312941",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287603",
+	"horseLabel": "インテリパワー",
+	"father": "http://www.wikidata.org/entity/Q11348940",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287612",
+	"horseLabel": "Intense Focus",
+	"father": "http://www.wikidata.org/entity/Q3105301",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287633",
+	"horseLabel": "Indian Ridge",
+	"father": "http://www.wikidata.org/entity/Q4696288",
+	"birthyear": "1985",
+	"deathyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287793",
+	"horseLabel": "In Reality",
+	"mother": "http://www.wikidata.org/entity/Q6945244",
+	"father": "http://www.wikidata.org/entity/Q6044492",
+	"birthyear": "1964",
+	"deathyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287797",
+	"horseLabel": "Invincible Spirit",
+	"father": "http://www.wikidata.org/entity/Q5602473",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287863",
+	"horseLabel": "イーグルカフェ",
+	"father": "http://www.wikidata.org/entity/Q11296295",
+	"birthyear": "1997",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11287915",
+	"horseLabel": "Eastern Anthem",
+	"mother": "http://www.wikidata.org/entity/Q6381833",
+	"father": "http://www.wikidata.org/entity/Q7524216",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288068",
+	"horseLabel": "ウィッシュドリーム",
+	"birthyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288094",
+	"horseLabel": "Sea Hawk",
+	"father": "http://www.wikidata.org/entity/Q11308892",
+	"birthyear": "1986",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288178",
+	"horseLabel": "Wilko",
+	"father": "http://www.wikidata.org/entity/Q4830021",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288318",
+	"horseLabel": "ウイザート",
+	"father": "http://www.wikidata.org/entity/Q11314399",
+	"birthyear": "1947",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288331",
+	"horseLabel": "With Anticipation",
+	"father": "http://www.wikidata.org/entity/Q7310849",
+	"birthyear": "1995"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288343",
+	"horseLabel": "ウイニングチケット",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288372",
+	"horseLabel": "ウイルデイール",
+	"birthyear": "1956",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288379",
+	"horseLabel": "ウインクリューガー",
+	"father": "http://www.wikidata.org/entity/Q7676023",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288384",
+	"horseLabel": "ウイングアロー",
+	"father": "http://www.wikidata.org/entity/Q11283161",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288390",
+	"horseLabel": "ウインザーノット",
+	"mother": "http://www.wikidata.org/entity/Q11305572",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1980",
+	"deathyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288432",
+	"horseLabel": "Wind in Her Hair",
+	"mother": "http://www.wikidata.org/entity/Q61976466",
+	"father": "http://www.wikidata.org/entity/Q17361618",
+	"birthyear": "1991",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288444",
+	"horseLabel": "ウインバリアシオン",
+	"father": "http://www.wikidata.org/entity/Q4309360",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288445",
+	"horseLabel": "ウインマーベラス",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288447",
+	"horseLabel": "ウインラディウス",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288587",
+	"horseLabel": "Welsh Muffin",
+	"father": "http://www.wikidata.org/entity/Q2932844",
+	"birthyear": "1987",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288643",
+	"horseLabel": "ウエスタンダンサー",
+	"father": "http://www.wikidata.org/entity/Q5252233",
+	"birthyear": "2004",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288767",
+	"horseLabel": "ウォータクティクス",
+	"father": "http://www.wikidata.org/entity/Q7968431",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11288908",
+	"horseLabel": "ウズシオタロー",
+	"birthyear": "1974",
+	"deathyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289004",
+	"horseLabel": "Woodpecker",
+	"father": "http://www.wikidata.org/entity/Q5742973",
+	"birthyear": "1787",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289014",
+	"horseLabel": "ウツミジョーダン",
+	"father": "http://www.wikidata.org/entity/Q11322180",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289088",
+	"horseLabel": "ウメノファイバー",
+	"father": "http://www.wikidata.org/entity/Q11304531",
+	"birthyear": "1996",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289089",
+	"horseLabel": "ウメノチカラ",
+	"father": "http://www.wikidata.org/entity/Q11330399",
+	"birthyear": "1961",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289424",
+	"horseLabel": "エアエミネム",
+	"father": "http://www.wikidata.org/entity/Q1005468",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289428",
+	"horseLabel": "Air Groove",
+	"mother": "http://www.wikidata.org/entity/Q11316819",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1993",
+	"deathyear": "2013",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289432",
+	"horseLabel": "Air Shady",
+	"mother": "http://www.wikidata.org/entity/Q11289445",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289434",
+	"horseLabel": "Air Shakur",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289435",
+	"horseLabel": "Air Jihad",
+	"father": "http://www.wikidata.org/entity/Q11304531",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289439",
+	"horseLabel": "エアスマップ",
+	"father": "http://www.wikidata.org/entity/Q1005468",
+	"birthyear": "1995",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289442",
+	"horseLabel": "Air Dublin",
+	"mother": "http://www.wikidata.org/entity/Q11317464",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1991",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289444",
+	"horseLabel": "エアトゥーレ",
+	"mother": "http://www.wikidata.org/entity/Q11311439",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1997",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289445",
+	"horseLabel": "エアデジャヴー",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1995",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289452",
+	"horseLabel": "エアパスカル",
+	"father": "http://www.wikidata.org/entity/Q7968431",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289486",
+	"horseLabel": "エアメサイア",
+	"mother": "http://www.wikidata.org/entity/Q11289445",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"deathyear": "2014",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289546",
+	"horseLabel": "エイシンガイモン",
+	"father": "http://www.wikidata.org/entity/Q7442093",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289547",
+	"horseLabel": "エイシンアポロン",
+	"father": "http://www.wikidata.org/entity/Q3105301",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289548",
+	"horseLabel": "エイシンサニー",
+	"father": "http://www.wikidata.org/entity/Q11342941",
+	"birthyear": "1987",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289549",
+	"horseLabel": "エイシンキャメロン",
+	"father": "http://www.wikidata.org/entity/Q8027965",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289550",
+	"horseLabel": "エイシンサンディ",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1993",
+	"deathyear": "2019",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289551",
+	"horseLabel": "Eishin Dunkirk",
+	"father": "http://www.wikidata.org/entity/Q1104649",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289552",
+	"horseLabel": "エイシンチャンプ",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289553",
+	"horseLabel": "エイシンテネシー",
+	"father": "http://www.wikidata.org/entity/Q11351856",
+	"birthyear": "1989",
+	"deathyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289554",
+	"horseLabel": "Eishin Deputy",
+	"father": "http://www.wikidata.org/entity/Q11334069",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289555",
+	"horseLabel": "エイシンテンダー",
+	"father": "http://www.wikidata.org/entity/Q11289550",
+	"birthyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289556",
+	"horseLabel": "エイシンドーバー",
+	"father": "http://www.wikidata.org/entity/Q7927493",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289557",
+	"horseLabel": "エイシンニーザン",
+	"father": "http://www.wikidata.org/entity/Q5472988",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289559",
+	"horseLabel": "エイシンバーリン",
+	"father": "http://www.wikidata.org/entity/Q5180163",
+	"birthyear": "1992",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289561",
+	"horseLabel": "エイシンボストン",
+	"birthyear": "2002"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289562",
+	"horseLabel": "Eishin Flash",
+	"father": "http://www.wikidata.org/entity/Q6410851",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289563",
+	"horseLabel": "エイシンロンバード",
+	"father": "http://www.wikidata.org/entity/Q7927493",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289564",
+	"horseLabel": "エイシンワシントン",
+	"father": "http://www.wikidata.org/entity/Q7080320",
+	"birthyear": "1991",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289572",
+	"horseLabel": "Asian Winds",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2004",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289584",
+	"horseLabel": "エイダイクイン",
+	"mother": "http://www.wikidata.org/entity/Q11345567",
+	"father": "http://www.wikidata.org/entity/Q6810492",
+	"birthyear": "1995",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289595",
+	"horseLabel": "エイティトウショウ",
+	"father": "http://www.wikidata.org/entity/Q11317526",
+	"birthyear": "1978",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289602",
+	"horseLabel": "Eight Crown",
+	"father": "http://www.wikidata.org/entity/Q11330399",
+	"birthyear": "1962",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11289687",
+	"horseLabel": "エガオヲミセテ",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1995",
+	"deathyear": "2000",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290025",
+	"horseLabel": "Escape Hatch",
+	"father": "http://www.wikidata.org/entity/Q11342022",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290029",
+	"horseLabel": "エスコリアル",
+	"birthyear": "1955",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290102",
+	"horseLabel": "エスプリシーズ",
+	"father": "http://www.wikidata.org/entity/Q11294024",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290177",
+	"horseLabel": "Atan",
+	"father": "http://www.wikidata.org/entity/Q1076143",
+	"birthyear": "1961",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290529",
+	"horseLabel": "エピセアローム",
+	"father": "http://www.wikidata.org/entity/Q11317065",
+	"birthyear": "2009",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290535",
+	"horseLabel": "Epiphaneia",
+	"mother": "http://www.wikidata.org/entity/Q11308798",
+	"father": "http://www.wikidata.org/entity/Q7661156",
+	"birthyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290665",
+	"horseLabel": "エフティマイア",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290770",
+	"horseLabel": "エムアイブラン",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290779",
+	"horseLabel": "MS World",
+	"father": "http://www.wikidata.org/entity/Q11312249",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290858",
+	"horseLabel": "エモシオン",
+	"mother": "http://www.wikidata.org/entity/Q11284114",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290979",
+	"horseLabel": "エリモシック",
+	"father": "http://www.wikidata.org/entity/Q3013377",
+	"birthyear": "1993",
+	"deathyear": "2014",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290980",
+	"horseLabel": "エリモエクセル",
+	"father": "http://www.wikidata.org/entity/Q7357442",
+	"birthyear": "1995",
+	"deathyear": "2018",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290981",
+	"horseLabel": "エリモジョージ",
+	"father": "http://www.wikidata.org/entity/Q11314763",
+	"birthyear": "1972",
+	"deathyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290983",
+	"horseLabel": "エリモハリアー",
+	"father": "http://www.wikidata.org/entity/Q3100542",
+	"birthyear": "2000"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290986",
+	"horseLabel": "エリモダンディー",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1994",
+	"deathyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290987",
+	"horseLabel": "エリモローラ",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11290995",
+	"horseLabel": "Erin Court",
+	"father": "http://www.wikidata.org/entity/Q10932646",
+	"birthyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291016",
+	"horseLabel": "L-Way Win",
+	"father": "http://www.wikidata.org/entity/Q2932844",
+	"birthyear": "1990",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291017",
+	"horseLabel": "エルカーサリバー",
+	"father": "http://www.wikidata.org/entity/Q11328455",
+	"birthyear": "1989",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291050",
+	"horseLabel": "El Senor",
+	"birthyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291072",
+	"horseLabel": "Hernando",
+	"father": "http://www.wikidata.org/entity/Q17012529",
+	"birthyear": "1990",
+	"deathyear": "2013",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291079",
+	"horseLabel": "Herbager",
+	"father": "http://www.wikidata.org/entity/Q61970520",
+	"birthyear": "1956",
+	"deathyear": "1976",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291100",
+	"horseLabel": "エルプス",
+	"father": "http://www.wikidata.org/entity/Q11340052",
+	"birthyear": "1982",
+	"deathyear": "2009",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291183",
+	"horseLabel": "Tukioka",
+	"mother": "http://www.wikidata.org/entity/Q22002352",
+	"father": "http://www.wikidata.org/entity/Q4252720",
+	"birthyear": "1932",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291255",
+	"horseLabel": "Helene",
+	"father": "http://www.wikidata.org/entity/Q11316799",
+	"birthyear": "2007",
+	"deathyear": "2010",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291418",
+	"horseLabel": "End Sweep",
+	"father": "http://www.wikidata.org/entity/Q5472988",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291467",
+	"horseLabel": "Emperor Jones",
+	"father": "http://www.wikidata.org/entity/Q1104509",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291528",
+	"horseLabel": "エーシンディーエス",
+	"father": "http://www.wikidata.org/entity/Q5252233",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291529",
+	"horseLabel": "エーシントップ",
+	"father": "http://www.wikidata.org/entity/Q11319116",
+	"birthyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291530",
+	"horseLabel": "エーシンモアオバー",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291531",
+	"horseLabel": "A Shin Forward",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291532",
+	"horseLabel": "エーシンヴァーゴウ",
+	"father": "http://www.wikidata.org/entity/Q5431678",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291691",
+	"horseLabel": "オウケンブルースリ",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291692",
+	"horseLabel": "Oken Sakura",
+	"mother": "http://www.wikidata.org/entity/Q11347615",
+	"father": "http://www.wikidata.org/entity/Q2879150",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291695",
+	"horseLabel": "オウシュウクラウン",
+	"father": "http://www.wikidata.org/entity/Q11309134",
+	"birthyear": "2003"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291734",
+	"horseLabel": "オウンオピニオン",
+	"birthyear": "1975",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291850",
+	"horseLabel": "オキノサキガケ",
+	"birthyear": "1978",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291893",
+	"horseLabel": "オグリワン",
+	"father": "http://www.wikidata.org/entity/Q7080301",
+	"birthyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291894",
+	"horseLabel": "Oguri Roman",
+	"mother": "http://www.wikidata.org/entity/Q11338112",
+	"father": "http://www.wikidata.org/entity/Q11335047",
+	"birthyear": "1991",
+	"deathyear": "2015",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11291911",
+	"horseLabel": "オサイチジョージ",
+	"father": "http://www.wikidata.org/entity/Q11342941",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292054",
+	"horseLabel": "オディール",
+	"father": "http://www.wikidata.org/entity/Q11299831",
+	"birthyear": "2005",
+	"deathyear": "2009",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292157",
+	"horseLabel": "Honest Lady",
+	"mother": "http://www.wikidata.org/entity/Q7829411",
+	"father": "http://www.wikidata.org/entity/Q1457136",
+	"birthyear": "1996",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292162",
+	"horseLabel": "オノユウ",
+	"father": "http://www.wikidata.org/entity/Q11328013",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292195",
+	"horseLabel": "オパールオーキツト",
+	"birthyear": "1950",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292216",
+	"horseLabel": "オフィサー",
+	"father": "http://www.wikidata.org/entity/Q4895908",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292282",
+	"horseLabel": "オフサイドトラップ",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1991",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292346",
+	"horseLabel": "オペックホース",
+	"father": "http://www.wikidata.org/entity/Q11348445",
+	"birthyear": "1977",
+	"deathyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292347",
+	"horseLabel": "オペラシチー",
+	"father": "http://www.wikidata.org/entity/Q7096598",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292547",
+	"horseLabel": "Oriental Art",
+	"father": "http://www.wikidata.org/entity/Q6810492",
+	"birthyear": "1997",
+	"deathyear": "2015",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292564",
+	"horseLabel": "オリエンタルロック",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292586",
+	"horseLabel": "オリオンザサンクス",
+	"father": "http://www.wikidata.org/entity/Q11307869",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292590",
+	"horseLabel": "オリオンホース",
+	"father": "http://www.wikidata.org/entity/Q11321199",
+	"birthyear": "1960",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292827",
+	"horseLabel": "Ortello",
+	"father": "http://www.wikidata.org/entity/Q7693967",
+	"birthyear": "1926",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292907",
+	"horseLabel": "Orewa Matteruze",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11292937",
+	"horseLabel": "オレンジピール",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1994",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293013",
+	"horseLabel": "オンスロート",
+	"birthyear": "1957",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293042",
+	"horseLabel": "On Fire",
+	"mother": "http://www.wikidata.org/entity/Q11288432",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293075",
+	"horseLabel": "オンワードガイ",
+	"birthyear": "1968",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293076",
+	"horseLabel": "オンワードゼア",
+	"mother": "http://www.wikidata.org/entity/Q11321150",
+	"birthyear": "1954",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293078",
+	"horseLabel": "オンワードボルガ",
+	"father": "http://www.wikidata.org/entity/Q17224311",
+	"birthyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293113",
+	"horseLabel": "オーエンス",
+	"father": "http://www.wikidata.org/entity/Q7594020",
+	"birthyear": "1946",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293199",
+	"horseLabel": "オーシス",
+	"father": "http://www.wikidata.org/entity/Q11321111",
+	"birthyear": "1931",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293211",
+	"horseLabel": "Ocean Blue",
+	"father": "http://www.wikidata.org/entity/Q11312249",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293249",
+	"horseLabel": "オースミイチバン",
+	"mother": "http://www.wikidata.org/entity/Q11293255",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293250",
+	"horseLabel": "Osumi Grass One",
+	"father": "http://www.wikidata.org/entity/Q11300176",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293251",
+	"horseLabel": "オースミシャダイ",
+	"father": "http://www.wikidata.org/entity/Q7301055",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293252",
+	"horseLabel": "Osumi Jet",
+	"father": "http://www.wikidata.org/entity/Q11309134",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293253",
+	"horseLabel": "オースミタイクーン",
+	"father": "http://www.wikidata.org/entity/Q6494747",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293254",
+	"horseLabel": "オースミダイドウ",
+	"father": "http://www.wikidata.org/entity/Q11312941",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293255",
+	"horseLabel": "オースミハルカ",
+	"father": "http://www.wikidata.org/entity/Q11333076",
+	"birthyear": "2000",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293256",
+	"horseLabel": "Osumi Dyna",
+	"father": "http://www.wikidata.org/entity/Q11298246",
+	"birthyear": "1988",
+	"deathyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293258",
+	"horseLabel": "オースミブライト",
+	"father": "http://www.wikidata.org/entity/Q6494747",
+	"birthyear": "1996"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293259",
+	"horseLabel": "オースミレパード",
+	"father": "http://www.wikidata.org/entity/Q11285398",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293269",
+	"horseLabel": "オータジマ",
+	"father": "http://www.wikidata.org/entity/Q11321199",
+	"birthyear": "1955",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293294",
+	"horseLabel": "オーテモン",
+	"father": "http://www.wikidata.org/entity/Q11346360",
+	"birthyear": "1955",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293321",
+	"horseLabel": "Otokitsu",
+	"mother": "http://www.wikidata.org/entity/Q11321150",
+	"father": "http://www.wikidata.org/entity/Q11516006",
+	"birthyear": "1952",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293437",
+	"horseLabel": "Obruchev",
+	"father": "http://www.wikidata.org/entity/Q11341083",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293451",
+	"horseLabel": "オープンガーデン",
+	"father": "http://www.wikidata.org/entity/Q11303790",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293559",
+	"horseLabel": "オールウェイズロイヤル",
+	"mother": "http://www.wikidata.org/entity/Q11328195",
+	"father": "http://www.wikidata.org/entity/Q8071945",
+	"birthyear": "1994",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293629",
+	"horseLabel": "Old Bald Peg",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293630",
+	"horseLabel": "オールドマン",
+	"birthyear": "1901",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293730",
+	"horseLabel": "Oro Meister",
+	"father": "http://www.wikidata.org/entity/Q11303924",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293802",
+	"horseLabel": "カイソウ",
+	"father": "http://www.wikidata.org/entity/Q11516006",
+	"birthyear": "1941",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293803",
+	"horseLabel": "Caitano",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11293894",
+	"horseLabel": "カウンテスアップ",
+	"father": "http://www.wikidata.org/entity/Q11332797",
+	"birthyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294024",
+	"horseLabel": "Cacoethes",
+	"father": "http://www.wikidata.org/entity/Q4738646",
+	"birthyear": "1986",
+	"deathyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294086",
+	"horseLabel": "カシマウイング",
+	"father": "http://www.wikidata.org/entity/Q1042741",
+	"birthyear": "1983",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294094",
+	"horseLabel": "カシュウチカラ",
+	"father": "http://www.wikidata.org/entity/Q11294566",
+	"birthyear": "1973",
+	"deathyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294309",
+	"horseLabel": "カツアール",
+	"birthyear": "1976",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294321",
+	"horseLabel": "カツシロ",
+	"birthyear": "1948",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294323",
+	"horseLabel": "カツトップエース",
+	"father": "http://www.wikidata.org/entity/Q11285909",
+	"birthyear": "1978",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294327",
+	"horseLabel": "Katsuragi Ace",
+	"birthyear": "1980",
+	"deathyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294328",
+	"horseLabel": "カツラギハイデン",
+	"father": "http://www.wikidata.org/entity/Q4850474",
+	"birthyear": "1983",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294329",
+	"horseLabel": "カツラシユウホウ",
+	"father": "http://www.wikidata.org/entity/Q11335651",
+	"birthyear": "1955",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294330",
+	"horseLabel": "Katsuranohaiseiko",
+	"father": "http://www.wikidata.org/entity/Q5639650",
+	"birthyear": "1976",
+	"deathyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294494",
+	"horseLabel": "カネケヤキ",
+	"birthyear": "1961",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294504",
+	"horseLabel": "カネツクロス",
+	"father": "http://www.wikidata.org/entity/Q11316319",
+	"birthyear": "1991",
+	"deathyear": "2017",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294505",
+	"horseLabel": "カネツフルーヴ",
+	"mother": "http://www.wikidata.org/entity/Q11350340",
+	"father": "http://www.wikidata.org/entity/Q7134267",
+	"birthyear": "1997",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294508",
+	"horseLabel": "カネトシガバナー",
+	"father": "http://www.wikidata.org/entity/Q11285398",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294512",
+	"horseLabel": "カネヒムロ",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1968",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294519",
+	"horseLabel": "カネミノブ",
+	"mother": "http://www.wikidata.org/entity/Q11294512",
+	"birthyear": "1974",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294537",
+	"horseLabel": "カノヤザクラ",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "2004",
+	"deathyear": "2010",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294560",
+	"horseLabel": "カバリエリエース",
+	"birthyear": "1978",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294566",
+	"horseLabel": "Cover Up II",
+	"birthyear": "1952",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294585",
+	"horseLabel": "カフェオリンポス",
+	"father": "http://www.wikidata.org/entity/Q5595099",
+	"birthyear": "2001",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294617",
+	"horseLabel": "カブトシロー",
+	"birthyear": "1962",
+	"deathyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294629",
+	"horseLabel": "カブトヤマ",
+	"mother": "http://www.wikidata.org/entity/Q11283518",
+	"father": "http://www.wikidata.org/entity/Q11306904",
+	"birthyear": "1930",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294631",
+	"horseLabel": "カブラヤオー",
+	"birthyear": "1972",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294733",
+	"horseLabel": "カミノクレッセ",
+	"father": "http://www.wikidata.org/entity/Q11285398",
+	"birthyear": "1987",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294735",
+	"horseLabel": "カミノタサハラ",
+	"father": "http://www.wikidata.org/entity/Q730381",
+	"birthyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294738",
+	"horseLabel": "カミノテシオ",
+	"father": "http://www.wikidata.org/entity/Q11343230",
+	"birthyear": "1970",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294786",
+	"horseLabel": "Kamsin",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11294957",
+	"horseLabel": "Kalamoun",
+	"father": "http://www.wikidata.org/entity/Q11314922",
+	"birthyear": "1970",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295011",
+	"horseLabel": "カリスタグローリ",
+	"father": "http://www.wikidata.org/entity/Q11335047",
+	"birthyear": "1988",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295046",
+	"horseLabel": "カリブソング",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295121",
+	"horseLabel": "Kaldoun",
+	"father": "http://www.wikidata.org/entity/Q5044188",
+	"birthyear": "1975",
+	"deathyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295179",
+	"horseLabel": "カルラネイチャー",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295262",
+	"horseLabel": "Curren Chan",
+	"father": "http://www.wikidata.org/entity/Q11299831",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295268",
+	"horseLabel": "Curren Black Hill",
+	"father": "http://www.wikidata.org/entity/Q11317065",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295327",
+	"horseLabel": "カワカミプリンセス",
+	"father": "http://www.wikidata.org/entity/Q11297913",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295448",
+	"horseLabel": "Canterbury Pilgrim",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295514",
+	"horseLabel": "カンパニー",
+	"father": "http://www.wikidata.org/entity/Q11342787",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295519",
+	"horseLabel": "Kampala",
+	"father": "http://www.wikidata.org/entity/Q11294957",
+	"birthyear": "1976",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295533",
+	"horseLabel": "Camphor Best",
+	"father": "http://www.wikidata.org/entity/Q11285398",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295571",
+	"horseLabel": "カヴァリエーレ・ダルピーノ",
+	"birthyear": "1926",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295679",
+	"horseLabel": "Carnegie",
+	"mother": "http://www.wikidata.org/entity/Q16835107",
+	"father": "http://www.wikidata.org/entity/Q1104636",
+	"birthyear": "1991",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295685",
+	"horseLabel": "カーネルシンボリ",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1971",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295735",
+	"horseLabel": "カーム",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11295746",
+	"horseLabel": "Carling",
+	"father": "http://www.wikidata.org/entity/Q11296303",
+	"birthyear": "1992",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296289",
+	"horseLabel": "Galgo Jr.",
+	"birthyear": "1928",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296295",
+	"horseLabel": "Gulch",
+	"father": "http://www.wikidata.org/entity/Q1104649",
+	"birthyear": "1984",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296303",
+	"horseLabel": "Garde Royale",
+	"father": "http://www.wikidata.org/entity/Q3314241",
+	"birthyear": "1980",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296312",
+	"horseLabel": "ガルボ",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296343",
+	"horseLabel": "ガロン",
+	"birthyear": "1909",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296496",
+	"horseLabel": "ガヴアナー",
+	"mother": "http://www.wikidata.org/entity/Q11283518",
+	"father": "http://www.wikidata.org/entity/Q11306904",
+	"birthyear": "1932",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296502",
+	"horseLabel": "Guersant",
+	"birthyear": "1949",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296536",
+	"horseLabel": "ガーネツト",
+	"father": "http://www.wikidata.org/entity/Q11321199",
+	"birthyear": "1955",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296624",
+	"horseLabel": "Kikuno Salire",
+	"father": "http://www.wikidata.org/entity/Q11309134",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296625",
+	"horseLabel": "キクノハッピー",
+	"birthyear": "1968",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296638",
+	"horseLabel": "キサスキサスキサス",
+	"father": "http://www.wikidata.org/entity/Q7442093",
+	"birthyear": "1998"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296646",
+	"horseLabel": "キシュウローレル",
+	"birthyear": "1970",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296650",
+	"horseLabel": "Quijano",
+	"father": "http://www.wikidata.org/entity/Q338164",
+	"birthyear": "2002"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296651",
+	"horseLabel": "キジョージャンボ",
+	"birthyear": "2000"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296674",
+	"horseLabel": "Kiss to Heaven",
+	"father": "http://www.wikidata.org/entity/Q17221619",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296691",
+	"horseLabel": "Kizuna",
+	"father": "http://www.wikidata.org/entity/Q730381",
+	"birthyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296721",
+	"horseLabel": "キタシバスペイン",
+	"birthyear": "1987",
+	"deathyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296726",
+	"horseLabel": "キタノオー",
+	"father": "http://www.wikidata.org/entity/Q11321199",
+	"birthyear": "1953",
+	"deathyear": "1958",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296727",
+	"horseLabel": "キタノオーザ",
+	"father": "http://www.wikidata.org/entity/Q11321199",
+	"birthyear": "1957",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296728",
+	"horseLabel": "キタノカチドキ",
+	"father": "http://www.wikidata.org/entity/Q11319254",
+	"birthyear": "1971",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296729",
+	"horseLabel": "キタノダイオー",
+	"mother": "http://www.wikidata.org/entity/Q11296730",
+	"birthyear": "1965",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11296730",
+	"horseLabel": "Kitano Hikari",
+	"father": "http://www.wikidata.org/entity/Q11321199",
+	"birthyear": "1954",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297172",
+	"horseLabel": "キャニオンロマン",
+	"father": "http://www.wikidata.org/entity/Q11335047",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297210",
+	"horseLabel": "キャプテントゥーレ",
+	"mother": "http://www.wikidata.org/entity/Q11289444",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297213",
+	"horseLabel": "キャプテンナムラ",
+	"father": "http://www.wikidata.org/entity/Q7497845",
+	"birthyear": "1975",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297350",
+	"horseLabel": "キャンディデート",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297404",
+	"horseLabel": "Cavalryman",
+	"father": "http://www.wikidata.org/entity/Q5643001",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297547",
+	"horseLabel": "Cupid",
+	"birthyear": "1957",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297554",
+	"horseLabel": "キョウエイウオリア",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297555",
+	"horseLabel": "キョウエイタップ",
+	"birthyear": "1987",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297556",
+	"horseLabel": "キョウエイプロミス",
+	"father": "http://www.wikidata.org/entity/Q4850474",
+	"birthyear": "1977",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297557",
+	"horseLabel": "キョウエイボーガン",
+	"birthyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297564",
+	"horseLabel": "キョウトシチー",
+	"father": "http://www.wikidata.org/entity/Q11304765",
+	"birthyear": "1991",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297566",
+	"horseLabel": "キョウワサンダー",
+	"father": "http://www.wikidata.org/entity/Q11314922",
+	"birthyear": "1981",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297567",
+	"horseLabel": "キョウワロアリング",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297568",
+	"horseLabel": "キョウワダイキチ",
+	"birthyear": "1995",
+	"deathyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297597",
+	"horseLabel": "キヨヒダカ",
+	"birthyear": "1978",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297598",
+	"horseLabel": "キヨフジ",
+	"father": "http://www.wikidata.org/entity/Q11298824",
+	"birthyear": "1948",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297825",
+	"horseLabel": "キンカイチフジ",
+	"father": "http://www.wikidata.org/entity/Q18016266",
+	"birthyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297858",
+	"horseLabel": "King Kamehameha",
+	"mother": "http://www.wikidata.org/entity/Q11341627",
+	"father": "http://www.wikidata.org/entity/Q3197083",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297865",
+	"horseLabel": "キンググローリアス",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297880",
+	"horseLabel": "キングジョイ",
+	"father": "http://www.wikidata.org/entity/Q11341810",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297886",
+	"horseLabel": "キングスエンブレム",
+	"mother": "http://www.wikidata.org/entity/Q11311363",
+	"father": "http://www.wikidata.org/entity/Q7968431",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297888",
+	"horseLabel": "Kingsgate Native",
+	"birthyear": "2005"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297889",
+	"horseLabel": "キングストレイル",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297894",
+	"horseLabel": "キングスポイント",
+	"mother": "http://www.wikidata.org/entity/Q11351291",
+	"father": "http://www.wikidata.org/entity/Q11303118",
+	"birthyear": "1977",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297901",
+	"horseLabel": "Kingsbarns",
+	"father": "http://www.wikidata.org/entity/Q3094737",
+	"birthyear": "2010",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297907",
+	"horseLabel": "キングトップガン",
+	"father": "http://www.wikidata.org/entity/Q6796863",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297908",
+	"horseLabel": "キングハイセイコー",
+	"father": "http://www.wikidata.org/entity/Q5639650",
+	"birthyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297913",
+	"horseLabel": "King Halo",
+	"mother": "http://www.wikidata.org/entity/Q11300124",
+	"father": "http://www.wikidata.org/entity/Q3013377",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297929",
+	"horseLabel": "Kinshasa No Kiseki",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297933",
+	"horseLabel": "キンタロー",
+	"birthyear": "1977",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297939",
+	"horseLabel": "キンテキ",
+	"father": "http://www.wikidata.org/entity/Q11306904",
+	"birthyear": "1933",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11297941",
+	"horseLabel": "キンテン",
+	"birthyear": "1929",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298001",
+	"horseLabel": "Key of Luck",
+	"mother": "http://www.wikidata.org/entity/Q11328195",
+	"father": "http://www.wikidata.org/entity/Q5096646",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298006",
+	"horseLabel": "キーストン",
+	"father": "http://www.wikidata.org/entity/Q11315435",
+	"birthyear": "1962",
+	"deathyear": "1967",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298047",
+	"horseLabel": "Keeneland Swan",
+	"father": "http://www.wikidata.org/entity/Q11320057",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298213",
+	"horseLabel": "ギャラントダンサー",
+	"father": "http://www.wikidata.org/entity/Q5518868",
+	"birthyear": "1975",
+	"deathyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298246",
+	"horseLabel": "Gallop Dyna",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1980",
+	"deathyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298272",
+	"horseLabel": "Gustave Cry",
+	"mother": "http://www.wikidata.org/entity/Q11332014",
+	"father": "http://www.wikidata.org/entity/Q4309360",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298318",
+	"horseLabel": "ギルデッドエージ",
+	"father": "http://www.wikidata.org/entity/Q7804636",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298396",
+	"horseLabel": "クィーンスプマンテ",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2004",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298616",
+	"horseLabel": "クォークスター",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298647",
+	"horseLabel": "クシロキング",
+	"father": "http://www.wikidata.org/entity/Q5272127",
+	"birthyear": "1982",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298760",
+	"horseLabel": "クニノハナ",
+	"father": "http://www.wikidata.org/entity/Q11325587",
+	"birthyear": "1967",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298823",
+	"horseLabel": "クモノハナ",
+	"father": "http://www.wikidata.org/entity/Q11335651",
+	"birthyear": "1947",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298824",
+	"horseLabel": "Kumohata",
+	"mother": "http://www.wikidata.org/entity/Q22002335",
+	"father": "http://www.wikidata.org/entity/Q11321111",
+	"birthyear": "1936",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298827",
+	"horseLabel": "Okataka",
+	"mother": "http://www.wikidata.org/entity/Q11291183",
+	"father": "http://www.wikidata.org/entity/Q11314399",
+	"birthyear": "1948",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298847",
+	"horseLabel": "クライムカイザー",
+	"father": "http://www.wikidata.org/entity/Q11352175",
+	"birthyear": "1973",
+	"deathyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298894",
+	"horseLabel": "Crowded House",
+	"father": "http://www.wikidata.org/entity/Q3417786",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298905",
+	"horseLabel": "Crown Attorney",
+	"father": "http://www.wikidata.org/entity/Q7516003",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298908",
+	"horseLabel": "クラウンピラード",
+	"mother": "http://www.wikidata.org/entity/Q11289602",
+	"birthyear": "1973",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11298915",
+	"horseLabel": "クラキンコ",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299084",
+	"horseLabel": "クラレント",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299108",
+	"horseLabel": "クラーベセクレタ",
+	"father": "http://www.wikidata.org/entity/Q11351244",
+	"birthyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299186",
+	"horseLabel": "クリスザブレイヴ",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299199",
+	"horseLabel": "Crystal Glitters",
+	"father": "http://www.wikidata.org/entity/Q2907399",
+	"birthyear": "1980",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299205",
+	"horseLabel": "Crystal Palace",
+	"father": "http://www.wikidata.org/entity/Q5044188",
+	"birthyear": "1974",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299394",
+	"horseLabel": "クリノハナ",
+	"father": "http://www.wikidata.org/entity/Q11335651",
+	"birthyear": "1949",
+	"deathyear": "1965",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299569",
+	"horseLabel": "クレオパトラトマス",
+	"birthyear": "1932",
+	"deathyear": "1954",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299697",
+	"horseLabel": "Kurokami",
+	"father": "http://www.wikidata.org/entity/Q2932844",
+	"birthyear": "1993",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299703",
+	"horseLabel": "Croco Rouge",
+	"father": "http://www.wikidata.org/entity/Q3417786",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299831",
+	"horseLabel": "Kurofune",
+	"father": "http://www.wikidata.org/entity/Q11334069",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299832",
+	"horseLabel": "クロフネサプライズ",
+	"father": "http://www.wikidata.org/entity/Q11299831",
+	"birthyear": "2010",
+	"deathyear": "2014",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299933",
+	"horseLabel": "クワイエットデイ",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299981",
+	"horseLabel": "クーリンガー",
+	"father": "http://www.wikidata.org/entity/Q5472988",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299986",
+	"horseLabel": "クールジョイ",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11299997",
+	"horseLabel": "クーヴェルチュール",
+	"father": "http://www.wikidata.org/entity/Q11334556",
+	"birthyear": "2004",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300124",
+	"horseLabel": "Goodbye Halo",
+	"mother": "http://www.wikidata.org/entity/Q22282426",
+	"father": "http://www.wikidata.org/entity/Q5643313",
+	"birthyear": "1985",
+	"deathyear": "2014",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300176",
+	"horseLabel": "Grass Wonder",
+	"father": "http://www.wikidata.org/entity/Q11308429",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300191",
+	"horseLabel": "Gladiatorus",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300282",
+	"horseLabel": "Grandezza",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300295",
+	"horseLabel": "グランドエキノクス",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300297",
+	"horseLabel": "グランドオペラ",
+	"mother": "http://www.wikidata.org/entity/Q5571543",
+	"father": "http://www.wikidata.org/entity/Q26798",
+	"birthyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300349",
+	"horseLabel": "グランドマーチス",
+	"father": "http://www.wikidata.org/entity/Q11325587",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300352",
+	"horseLabel": "グランドライト",
+	"father": "http://www.wikidata.org/entity/Q11316729",
+	"birthyear": "1939",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300372",
+	"horseLabel": "Grandpa's Dream",
+	"father": "http://www.wikidata.org/entity/Q11294631",
+	"birthyear": "1983",
+	"deathyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300390",
+	"horseLabel": "グランプリエンゼル",
+	"father": "http://www.wikidata.org/entity/Q11283071",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300395",
+	"horseLabel": "グランプリボス",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300417",
+	"horseLabel": "グランリーオ",
+	"father": "http://www.wikidata.org/entity/Q11304933",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300491",
+	"horseLabel": "グリンダイオー",
+	"father": "http://www.wikidata.org/entity/Q11321754",
+	"birthyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300495",
+	"horseLabel": "グリンモリー",
+	"father": "http://www.wikidata.org/entity/Q11341313",
+	"birthyear": "1985",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300536",
+	"horseLabel": "Green Chateau",
+	"father": "http://www.wikidata.org/entity/Q5087563",
+	"birthyear": "1974",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300574",
+	"horseLabel": "Green Forest",
+	"birthyear": "1979",
+	"deathyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300654",
+	"horseLabel": "グルメフロンティア",
+	"birthyear": "1992",
+	"deathyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300664",
+	"horseLabel": "グルヴェイグ",
+	"mother": "http://www.wikidata.org/entity/Q11289428",
+	"father": "http://www.wikidata.org/entity/Q730381",
+	"birthyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300704",
+	"horseLabel": "グレイスティアラ",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300706",
+	"horseLabel": "Grey Sovereign",
+	"father": "http://www.wikidata.org/entity/Q6967340",
+	"birthyear": "1948",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300715",
+	"horseLabel": "グレイトジャーニー",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300768",
+	"horseLabel": "Grace Admire",
+	"mother": "http://www.wikidata.org/entity/Q11328242",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1994",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300788",
+	"horseLabel": "グレートステージ",
+	"father": "http://www.wikidata.org/entity/Q11311410",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300789",
+	"horseLabel": "グレートセイカン",
+	"birthyear": "1972",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300793",
+	"horseLabel": "グレートタイタン",
+	"father": "http://www.wikidata.org/entity/Q7497845",
+	"birthyear": "1975",
+	"deathyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300798",
+	"horseLabel": "グレートホープ",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300800",
+	"horseLabel": "グレートモンテ",
+	"father": "http://www.wikidata.org/entity/Q11344758",
+	"birthyear": "1985",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300801",
+	"horseLabel": "グレートヨルカ",
+	"father": "http://www.wikidata.org/entity/Q11329960",
+	"birthyear": "1960",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300830",
+	"horseLabel": "グレープブランデー",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300981",
+	"horseLabel": "ケアレス",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300985",
+	"horseLabel": "Keiai Gerbera",
+	"father": "http://www.wikidata.org/entity/Q7544171",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300988",
+	"horseLabel": "ケイエスミラクル",
+	"birthyear": "1988",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300989",
+	"horseLabel": "ケイエスヨシゼン",
+	"father": "http://www.wikidata.org/entity/Q11342035",
+	"birthyear": "1993",
+	"deathyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11300994",
+	"horseLabel": "ケイキロク",
+	"birthyear": "1977",
+	"deathyear": "2011",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301024",
+	"horseLabel": "ケイティタイガー",
+	"birthyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301026",
+	"horseLabel": "Katies",
+	"father": "http://www.wikidata.org/entity/Q1042741",
+	"birthyear": "1981",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301070",
+	"horseLabel": "ケイワンバイキング",
+	"birthyear": "1993"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301164",
+	"horseLabel": "ケニイモア",
+	"father": "http://www.wikidata.org/entity/Q11298824",
+	"birthyear": "1953",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301225",
+	"horseLabel": "ケルトス",
+	"father": "http://www.wikidata.org/entity/Q11301313",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301313",
+	"horseLabel": "Kendor",
+	"father": "http://www.wikidata.org/entity/Q11301318",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301318",
+	"horseLabel": "Kenmare",
+	"father": "http://www.wikidata.org/entity/Q11294957",
+	"birthyear": "1975",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301477",
+	"horseLabel": "ゲイタイム",
+	"birthyear": "1949",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301481",
+	"horseLabel": "Gay Mecene",
+	"father": "http://www.wikidata.org/entity/Q3553272",
+	"birthyear": "1975",
+	"deathyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301487",
+	"horseLabel": "ゲイルスポート",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301539",
+	"horseLabel": "ゲシュタルト",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301575",
+	"horseLabel": "ゲットフルマークス",
+	"father": "http://www.wikidata.org/entity/Q11339766",
+	"birthyear": "2006"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301823",
+	"horseLabel": "コイウタ",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301835",
+	"horseLabel": "Koiwai",
+	"mother": "http://www.wikidata.org/entity/Q22002348",
+	"birthyear": "1908",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301850",
+	"horseLabel": "コウエイトライ",
+	"father": "http://www.wikidata.org/entity/Q7096598",
+	"birthyear": "2001",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301854",
+	"horseLabel": "コウザンハヤヒデ",
+	"father": "http://www.wikidata.org/entity/Q11321754",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301875",
+	"horseLabel": "コウユウ",
+	"father": "http://www.wikidata.org/entity/Q11296502",
+	"birthyear": "1965",
+	"deathyear": "1986",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301911",
+	"horseLabel": "コガネタイフウ",
+	"father": "http://www.wikidata.org/entity/Q11340052",
+	"birthyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11301914",
+	"horseLabel": "コクオー",
+	"birthyear": "1934",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302085",
+	"horseLabel": "Cosmah",
+	"mother": "http://www.wikidata.org/entity/Q4733659",
+	"birthyear": "1953",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302101",
+	"horseLabel": "コスモオオゾラ",
+	"father": "http://www.wikidata.org/entity/Q7368666",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302108",
+	"horseLabel": "コスモサンビーム",
+	"father": "http://www.wikidata.org/entity/Q11306348",
+	"birthyear": "2001",
+	"deathyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302140",
+	"horseLabel": "コスモドリーム",
+	"birthyear": "1985",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302142",
+	"horseLabel": "Cosmo Bulk",
+	"father": "http://www.wikidata.org/entity/Q11306348",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302146",
+	"horseLabel": "Cosmo Phantom",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302152",
+	"horseLabel": "コスモメドウ",
+	"father": "http://www.wikidata.org/entity/Q6410851",
+	"birthyear": "2007",
+	"deathyear": "2011"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302158",
+	"horseLabel": "Cosmo Valenti",
+	"father": "http://www.wikidata.org/entity/Q11339766",
+	"birthyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302197",
+	"horseLabel": "コダマ",
+	"mother": "http://www.wikidata.org/entity/Q11308271",
+	"birthyear": "1957",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302247",
+	"horseLabel": "コディーノ",
+	"father": "http://www.wikidata.org/entity/Q11297858",
+	"birthyear": "2010",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302252",
+	"horseLabel": "コトノアサブキ",
+	"birthyear": "1975",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302363",
+	"horseLabel": "コパノフウジン",
+	"father": "http://www.wikidata.org/entity/Q11336442",
+	"birthyear": "2002",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302431",
+	"horseLabel": "Komatsu Hikari",
+	"mother": "http://www.wikidata.org/entity/Q11286498",
+	"father": "http://www.wikidata.org/entity/Q11321199",
+	"birthyear": "1956",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302495",
+	"horseLabel": "コミックストリップ",
+	"father": "http://www.wikidata.org/entity/Q7304776",
+	"birthyear": "1995"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302847",
+	"horseLabel": "コレヒデ",
+	"birthyear": "1962",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302893",
+	"horseLabel": "Coronation",
+	"father": "http://www.wikidata.org/entity/Q5729825",
+	"birthyear": "1946",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302976",
+	"horseLabel": "Kongō Rikishiō",
+	"father": "http://www.wikidata.org/entity/Q7622356",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11302995",
+	"horseLabel": "コンサートボーイ",
+	"father": "http://www.wikidata.org/entity/Q11294024",
+	"birthyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303053",
+	"horseLabel": "コンダクター",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303118",
+	"horseLabel": "Contrite",
+	"father": "http://www.wikidata.org/entity/Q11325586",
+	"birthyear": "1968",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303344",
+	"horseLabel": "コーセイ",
+	"father": "http://www.wikidata.org/entity/Q11315708",
+	"birthyear": "1984",
+	"deathyear": "2014",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303412",
+	"horseLabel": "コーネルランサー",
+	"father": "http://www.wikidata.org/entity/Q11314327",
+	"birthyear": "1971",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303451",
+	"horseLabel": "コーヨーチカラ",
+	"birthyear": "1973",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303576",
+	"horseLabel": "ゴスホークケン",
+	"father": "http://www.wikidata.org/entity/Q11328624",
+	"birthyear": "2005",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303612",
+	"horseLabel": "ゴッドスピード",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303707",
+	"horseLabel": "ゴルトブリッツ",
+	"mother": "http://www.wikidata.org/entity/Q11349794",
+	"father": "http://www.wikidata.org/entity/Q11312941",
+	"birthyear": "2007",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303789",
+	"horseLabel": "ゴーイングスズカ",
+	"father": "http://www.wikidata.org/entity/Q11316820",
+	"birthyear": "1993"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303790",
+	"horseLabel": "ゴーカイ",
+	"mother": "http://www.wikidata.org/entity/Q11345553",
+	"father": "http://www.wikidata.org/entity/Q11309878",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303808",
+	"horseLabel": "ゴーゴーゼット",
+	"father": "http://www.wikidata.org/entity/Q11304765",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303868",
+	"horseLabel": "ゴールデンウエーブ",
+	"father": "http://www.wikidata.org/entity/Q11342345",
+	"birthyear": "1951",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303876",
+	"horseLabel": "ゴールデンジャック",
+	"father": "http://www.wikidata.org/entity/Q11284680",
+	"birthyear": "1991",
+	"deathyear": "2013",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303885",
+	"horseLabel": "Golden Ticket",
+	"father": "http://www.wikidata.org/entity/Q11297858",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303890",
+	"horseLabel": "ゴールデンバージ",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303899",
+	"horseLabel": "Golden Miller",
+	"birthyear": "1927"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303924",
+	"horseLabel": "Gold Allure",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1999",
+	"deathyear": "2017",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303925",
+	"horseLabel": "ゴールドイーグル",
+	"father": "http://www.wikidata.org/entity/Q11294617",
+	"birthyear": "1970",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303936",
+	"horseLabel": "ゴールドシチー",
+	"birthyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303941",
+	"horseLabel": "ゴールドティアラ",
+	"father": "http://www.wikidata.org/entity/Q7445798",
+	"birthyear": "1996",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303942",
+	"horseLabel": "Gold Digger",
+	"father": "http://www.wikidata.org/entity/Q6966906",
+	"birthyear": "1962",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303946",
+	"horseLabel": "Goldfinder",
+	"father": "http://www.wikidata.org/entity/Q7547251",
+	"birthyear": "1764",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303951",
+	"horseLabel": "Gold Halo",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303952",
+	"horseLabel": "Gold Head",
+	"father": "http://www.wikidata.org/entity/Q11307903",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303954",
+	"horseLabel": "ゴールドマウンテン",
+	"birthyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11303962",
+	"horseLabel": "Gold River",
+	"father": "http://www.wikidata.org/entity/Q3433509",
+	"birthyear": "1977",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304073",
+	"horseLabel": "Saiko Kirara",
+	"father": "http://www.wikidata.org/entity/Q11348665",
+	"birthyear": "1997",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304119",
+	"horseLabel": "サイドワインダー",
+	"mother": "http://www.wikidata.org/entity/Q11303876",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304250",
+	"horseLabel": "サイレントディール",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304252",
+	"horseLabel": "サイレントネーム",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304254",
+	"horseLabel": "サイレントハピネス",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1992",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304256",
+	"horseLabel": "サイレントハンター",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1993",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304258",
+	"horseLabel": "サイレントプライド",
+	"father": "http://www.wikidata.org/entity/Q11334069",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304297",
+	"horseLabel": "サウスヴィグラス",
+	"father": "http://www.wikidata.org/entity/Q11291418",
+	"birthyear": "1996",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304401",
+	"horseLabel": "サカモトデュラブ",
+	"father": "http://www.wikidata.org/entity/Q11320777",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304405",
+	"horseLabel": "サカラート",
+	"mother": "http://www.wikidata.org/entity/Q11311363",
+	"father": "http://www.wikidata.org/entity/Q11284680",
+	"birthyear": "2000",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304462",
+	"horseLabel": "サクセスビューティ",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1999",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304463",
+	"horseLabel": "サクセスブロッケン",
+	"birthyear": "2005"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304489",
+	"horseLabel": "サクライワイ",
+	"birthyear": "1971",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304490",
+	"horseLabel": "サクラエイコウオー",
+	"father": "http://www.wikidata.org/entity/Q11341313",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304494",
+	"horseLabel": "サクラオリオン",
+	"father": "http://www.wikidata.org/entity/Q5351060",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304496",
+	"horseLabel": "サクラキャンドル",
+	"father": "http://www.wikidata.org/entity/Q11304531",
+	"birthyear": "1992",
+	"deathyear": "2019",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304506",
+	"horseLabel": "サクラショウリ",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1975",
+	"deathyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304507",
+	"horseLabel": "Sakura Shingeki",
+	"father": "http://www.wikidata.org/entity/Q11323415",
+	"birthyear": "1977",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304508",
+	"horseLabel": "Sakura Star O",
+	"father": "http://www.wikidata.org/entity/Q11304506",
+	"birthyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304509",
+	"horseLabel": "Sakura Speed O",
+	"father": "http://www.wikidata.org/entity/Q11304524",
+	"birthyear": "1993",
+	"deathyear": "2019",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304510",
+	"horseLabel": "Sakura Sedan",
+	"mother": "http://www.wikidata.org/entity/Q11313572",
+	"father": "http://www.wikidata.org/entity/Q11314327",
+	"birthyear": "1972",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304515",
+	"horseLabel": "サクラチトセオー",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1995",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304516",
+	"horseLabel": "Sakura Chiyono O",
+	"mother": "http://www.wikidata.org/entity/Q11304510",
+	"father": "http://www.wikidata.org/entity/Q11341313",
+	"birthyear": "1985",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304517",
+	"horseLabel": "サクラトウコウ",
+	"mother": "http://www.wikidata.org/entity/Q11304510",
+	"father": "http://www.wikidata.org/entity/Q11341313",
+	"birthyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304520",
+	"horseLabel": "サクラバクシンオー",
+	"father": "http://www.wikidata.org/entity/Q11304531",
+	"birthyear": "1989",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304522",
+	"horseLabel": "サクラプレジデント",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304524",
+	"horseLabel": "サクラホクトオー",
+	"father": "http://www.wikidata.org/entity/Q11321101",
+	"birthyear": "1986",
+	"deathyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304527",
+	"horseLabel": "サクラメガワンダー",
+	"father": "http://www.wikidata.org/entity/Q11300176",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304531",
+	"horseLabel": "Sakura Yutaka O",
+	"father": "http://www.wikidata.org/entity/Q11319254",
+	"birthyear": "1982",
+	"deathyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304534",
+	"horseLabel": "Sakura Laurel",
+	"father": "http://www.wikidata.org/entity/Q3417786",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304739",
+	"horseLabel": "サチカゼ",
+	"father": "http://www.wikidata.org/entity/Q11346360",
+	"birthyear": "1956",
+	"deathyear": "1961",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304741",
+	"horseLabel": "サチノスイーティー",
+	"father": "http://www.wikidata.org/entity/Q11295011",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304742",
+	"horseLabel": "サチヒカリ",
+	"father": "http://www.wikidata.org/entity/Q11316729",
+	"birthyear": "1948",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304765",
+	"horseLabel": "Soccer Boy",
+	"father": "http://www.wikidata.org/entity/Q11320008",
+	"birthyear": "1985",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304870",
+	"horseLabel": "サデックス",
+	"father": "http://www.wikidata.org/entity/Q1104636",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304891",
+	"horseLabel": "サトノプログレス",
+	"father": "http://www.wikidata.org/entity/Q7676023",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304923",
+	"horseLabel": "サニングデール",
+	"father": "http://www.wikidata.org/entity/Q7969814",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304930",
+	"horseLabel": "サニーサンデー",
+	"father": "http://www.wikidata.org/entity/Q11341810",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11304933",
+	"horseLabel": "Sunny Brian",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305013",
+	"horseLabel": "Subject",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305035",
+	"horseLabel": "Surprise Power",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305044",
+	"horseLabel": "Sahpresa",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305080",
+	"horseLabel": "サマニベッピン",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1990",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305091",
+	"horseLabel": "Summer Wind",
+	"mother": "http://www.wikidata.org/entity/Q11308487",
+	"father": "http://www.wikidata.org/entity/Q7676023",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305095",
+	"horseLabel": "Summer Suspicion",
+	"mother": "http://www.wikidata.org/entity/Q11316840",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305171",
+	"horseLabel": "Samson Big",
+	"father": "http://www.wikidata.org/entity/Q11304506",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305202",
+	"horseLabel": "サムライハート",
+	"mother": "http://www.wikidata.org/entity/Q11289428",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305385",
+	"horseLabel": "サルノキング",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305442",
+	"horseLabel": "サンアディユ",
+	"father": "http://www.wikidata.org/entity/Q11334069",
+	"birthyear": "2002",
+	"deathyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305453",
+	"horseLabel": "サンエイサンキュー",
+	"father": "http://www.wikidata.org/entity/Q11316824",
+	"birthyear": "1989",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305454",
+	"horseLabel": "サンエイソロン",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1978",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305483",
+	"horseLabel": "サンオーイ",
+	"father": "http://www.wikidata.org/entity/Q11348445",
+	"birthyear": "1980",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305487",
+	"horseLabel": "サンカルロ",
+	"father": "http://www.wikidata.org/entity/Q7661156",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305533",
+	"horseLabel": "Sun Classique",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305534",
+	"horseLabel": "サンクリント",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305572",
+	"horseLabel": "San San",
+	"father": "http://www.wikidata.org/entity/Q4850296",
+	"birthyear": "1969",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305596",
+	"horseLabel": "Sunshine Boy",
+	"father": "http://www.wikidata.org/entity/Q11319254",
+	"birthyear": "1974",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305608",
+	"horseLabel": "Sancy",
+	"father": "http://www.wikidata.org/entity/Q17361602",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305664",
+	"horseLabel": "サンダルフォン",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305671",
+	"horseLabel": "Thunder Gulch",
+	"father": "http://www.wikidata.org/entity/Q11296295",
+	"birthyear": "1992",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305704",
+	"horseLabel": "Sun Zeppelin",
+	"father": "http://www.wikidata.org/entity/Q11319859",
+	"birthyear": "2004"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305711",
+	"horseLabel": "サンテミリオン",
+	"father": "http://www.wikidata.org/entity/Q8069153",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305776",
+	"horseLabel": "サンデーピクニック",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1996",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305778",
+	"horseLabel": "Sunday Break",
+	"father": "http://www.wikidata.org/entity/Q5472988",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305864",
+	"horseLabel": "サンドピアリス",
+	"father": "http://www.wikidata.org/entity/Q5639650",
+	"birthyear": "1986",
+	"deathyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305872",
+	"horseLabel": "Sundridge",
+	"birthyear": "1898",
+	"deathyear": "1923",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305873",
+	"horseLabel": "サンドリーズン",
+	"birthyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305890",
+	"horseLabel": "サンバコール",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305893",
+	"horseLabel": "サンバレンティン",
+	"father": "http://www.wikidata.org/entity/Q11312941",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11305945",
+	"horseLabel": "サンプソン",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306034",
+	"horseLabel": "Sunrise Bacchus",
+	"father": "http://www.wikidata.org/entity/Q11336442",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306038",
+	"horseLabel": "サンライズプリンス",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306039",
+	"horseLabel": "サンライズペガサス",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306040",
+	"horseLabel": "サンライズマックス",
+	"father": "http://www.wikidata.org/entity/Q11312249",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306084",
+	"horseLabel": "サンレイジャスパー",
+	"birthyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306159",
+	"horseLabel": "Saga Novel",
+	"father": "http://www.wikidata.org/entity/Q11327513",
+	"birthyear": "1999",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306236",
+	"horseLabel": "Sir Peter Teazle",
+	"mother": "http://www.wikidata.org/entity/Q55091271",
+	"father": "http://www.wikidata.org/entity/Q915971",
+	"birthyear": "1784",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306326",
+	"horseLabel": "ザカリヤ",
+	"father": "http://www.wikidata.org/entity/Q8064298",
+	"birthyear": "1996",
+	"deathyear": "2013",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306348",
+	"horseLabel": "Zagreb",
+	"father": "http://www.wikidata.org/entity/Q7777558",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306375",
+	"horseLabel": "That's The Plenty",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306395",
+	"horseLabel": "ザパルテノス",
+	"birthyear": "1981",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306406",
+	"horseLabel": "Zafisio",
+	"birthyear": "2006"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306420",
+	"horseLabel": "Zamindar",
+	"father": "http://www.wikidata.org/entity/Q5581608",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306433",
+	"horseLabel": "ザレマ",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "2004",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306863",
+	"horseLabel": "Xaar",
+	"father": "http://www.wikidata.org/entity/Q8064298",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306904",
+	"horseLabel": "Shian Mor",
+	"father": "http://www.wikidata.org/entity/Q17361624",
+	"birthyear": "1924",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306934",
+	"horseLabel": "シェイクスピア",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306983",
+	"horseLabel": "Cheryl",
+	"birthyear": "1971",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306984",
+	"horseLabel": "Sheriff's Star",
+	"father": "http://www.wikidata.org/entity/Q17014262",
+	"birthyear": "1985",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306993",
+	"horseLabel": "Shell Game",
+	"father": "http://www.wikidata.org/entity/Q7653000",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11306995",
+	"horseLabel": "Shells Lei",
+	"father": "http://www.wikidata.org/entity/Q11299831",
+	"birthyear": "2003",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307020",
+	"horseLabel": "Schon wald",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2006"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307086",
+	"horseLabel": "シクレノンシェリフ",
+	"father": "http://www.wikidata.org/entity/Q7301055",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307116",
+	"horseLabel": "シゲルホームラン",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307162",
+	"horseLabel": "Sister Sono",
+	"mother": "http://www.wikidata.org/entity/Q11350340",
+	"father": "http://www.wikidata.org/entity/Q11323808",
+	"birthyear": "1991",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307163",
+	"horseLabel": "シスタートウショウ",
+	"father": "http://www.wikidata.org/entity/Q11321101",
+	"birthyear": "1988",
+	"deathyear": "2015",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307255",
+	"horseLabel": "Six Sense",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"deathyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307488",
+	"horseLabel": "シビルウォー",
+	"father": "http://www.wikidata.org/entity/Q7968431",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307511",
+	"horseLabel": "シプリアニ",
+	"father": "http://www.wikidata.org/entity/Q11325586",
+	"birthyear": "1958",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307513",
+	"horseLabel": "シベリアンホーク",
+	"father": "http://www.wikidata.org/entity/Q7577625",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307553",
+	"horseLabel": "シマユキ",
+	"father": "http://www.wikidata.org/entity/Q11314399",
+	"birthyear": "1950",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307653",
+	"horseLabel": "シャコーグレイド",
+	"father": "http://www.wikidata.org/entity/Q11342021",
+	"birthyear": "1988",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307661",
+	"horseLabel": "シャダイアイバー",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1979",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307662",
+	"horseLabel": "シャダイカグラ",
+	"father": "http://www.wikidata.org/entity/Q7301055",
+	"birthyear": "1986",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307663",
+	"horseLabel": "シャダイソフィア",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1980",
+	"deathyear": "1985",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307708",
+	"horseLabel": "シャドウゲイト",
+	"father": "http://www.wikidata.org/entity/Q11338126",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307775",
+	"horseLabel": "Shalanaya",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307816",
+	"horseLabel": "Sharrood",
+	"father": "http://www.wikidata.org/entity/Q5044188",
+	"birthyear": "1983",
+	"deathyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307826",
+	"horseLabel": "Shawanda",
+	"father": "http://www.wikidata.org/entity/Q3485021",
+	"birthyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307869",
+	"horseLabel": "Shanghai",
+	"birthyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11307903",
+	"horseLabel": "Shaadi",
+	"father": "http://www.wikidata.org/entity/Q1104509",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308061",
+	"horseLabel": "シュンエイ",
+	"father": "http://www.wikidata.org/entity/Q11346360",
+	"birthyear": "1955",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308122",
+	"horseLabel": "ショウナンアルバ",
+	"father": "http://www.wikidata.org/entity/Q7968431",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308123",
+	"horseLabel": "Syonan Kamp",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308124",
+	"horseLabel": "ショウナンタキオン",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2003",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308125",
+	"horseLabel": "ショウナンパントル",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308126",
+	"horseLabel": "Shonan Mighty",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308128",
+	"horseLabel": "ショウリダバンザイ",
+	"father": "http://www.wikidata.org/entity/Q11335584",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308129",
+	"horseLabel": "ショウリュウムーン",
+	"father": "http://www.wikidata.org/entity/Q11297858",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308135",
+	"horseLabel": "ショウワモダン",
+	"birthyear": "2004",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308267",
+	"horseLabel": "シヨノロマン",
+	"father": "http://www.wikidata.org/entity/Q11348786",
+	"birthyear": "1985",
+	"deathyear": "2013",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308271",
+	"horseLabel": "シラオキ",
+	"father": "http://www.wikidata.org/entity/Q11335651",
+	"birthyear": "1946",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308284",
+	"horseLabel": "Shirayukihime",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1996",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308291",
+	"horseLabel": "Serious Attitude",
+	"father": "http://www.wikidata.org/entity/Q11343140",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308300",
+	"horseLabel": "シリウスシンボリ",
+	"father": "http://www.wikidata.org/entity/Q11344265",
+	"birthyear": "1982",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308324",
+	"horseLabel": "Selene",
+	"father": "http://www.wikidata.org/entity/Q11318506",
+	"birthyear": "1919",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308343",
+	"horseLabel": "Silk Justice",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308344",
+	"horseLabel": "シルクテンザンオー",
+	"mother": "http://www.wikidata.org/entity/Q11342101",
+	"birthyear": "1979",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308347",
+	"horseLabel": "シルクフェイマス",
+	"father": "http://www.wikidata.org/entity/Q11341810",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308348",
+	"horseLabel": "シルクフォーチュン",
+	"father": "http://www.wikidata.org/entity/Q11303924",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308349",
+	"horseLabel": "シルクブラボー",
+	"father": "http://www.wikidata.org/entity/Q5180163",
+	"birthyear": "2000",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308350",
+	"horseLabel": "シルクプリマドンナ",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1997",
+	"deathyear": "2016",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308353",
+	"horseLabel": "シルクムーンライト",
+	"father": "http://www.wikidata.org/entity/Q11308344",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308354",
+	"horseLabel": "Silk Mobius",
+	"father": "http://www.wikidata.org/entity/Q11312249",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308376",
+	"horseLabel": "Silver Shark",
+	"birthyear": "1963",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308382",
+	"horseLabel": "Silver Spoon",
+	"father": "http://www.wikidata.org/entity/Q471395",
+	"birthyear": "1956",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308389",
+	"horseLabel": "シルバーブリツト",
+	"father": "http://www.wikidata.org/entity/Q11321754",
+	"birthyear": "1983",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308393",
+	"horseLabel": "Silver Lining",
+	"birthyear": "1973"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308394",
+	"horseLabel": "シルバーランド",
+	"father": "http://www.wikidata.org/entity/Q7497845",
+	"birthyear": "1970",
+	"deathyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308423",
+	"horseLabel": "シルポート",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308424",
+	"horseLabel": "Silvano",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308427",
+	"horseLabel": "シルヴァーフロスト",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308429",
+	"horseLabel": "Silver Hawk",
+	"father": "http://www.wikidata.org/entity/Q7351567",
+	"birthyear": "1979",
+	"deathyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308430",
+	"horseLabel": "シルヴァーロックス",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308475",
+	"horseLabel": "シロベエ",
+	"mother": "http://www.wikidata.org/entity/Q11308284",
+	"father": "http://www.wikidata.org/entity/Q11299831",
+	"birthyear": "2008"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308487",
+	"horseLabel": "Shin Wind",
+	"birthyear": "1984",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308488",
+	"horseLabel": "シンウルフ",
+	"father": "http://www.wikidata.org/entity/Q11347077",
+	"birthyear": "1979",
+	"deathyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308491",
+	"horseLabel": "シンカイウン",
+	"birthyear": "1992",
+	"deathyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308581",
+	"horseLabel": "Shingen",
+	"father": "http://www.wikidata.org/entity/Q11338126",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308582",
+	"horseLabel": "シンコウアンクレー",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308583",
+	"horseLabel": "シンコウウインディ",
+	"father": "http://www.wikidata.org/entity/Q11320777",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308584",
+	"horseLabel": "シンコウカリド",
+	"father": "http://www.wikidata.org/entity/Q11308429",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308585",
+	"horseLabel": "シンコウキング",
+	"father": "http://www.wikidata.org/entity/Q5430970",
+	"birthyear": "1991",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308587",
+	"horseLabel": "シンコウスプレンダ",
+	"father": "http://www.wikidata.org/entity/Q5243161",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308589",
+	"horseLabel": "Shinko Lovely",
+	"father": "http://www.wikidata.org/entity/Q2932844",
+	"birthyear": "1989",
+	"deathyear": "2011",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308590",
+	"horseLabel": "シンコウフォレスト",
+	"father": "http://www.wikidata.org/entity/Q5602473",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308657",
+	"horseLabel": "シンドバッド",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308699",
+	"horseLabel": "シンボリインディ",
+	"father": "http://www.wikidata.org/entity/Q1968208",
+	"birthyear": "1996",
+	"deathyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308700",
+	"horseLabel": "シンボリクリエンス",
+	"birthyear": "1985",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308701",
+	"horseLabel": "シンボリグラン",
+	"father": "http://www.wikidata.org/entity/Q5594750",
+	"birthyear": "2002"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308702",
+	"horseLabel": "シンボリモントルー",
+	"father": "http://www.wikidata.org/entity/Q11344265",
+	"birthyear": "1985",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308703",
+	"horseLabel": "Symboli Rudolf",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1981",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308711",
+	"horseLabel": "Shimmei Fuji",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308715",
+	"horseLabel": "シンモエダケ",
+	"father": "http://www.wikidata.org/entity/Q11307511",
+	"birthyear": "1969",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308736",
+	"horseLabel": "She is Tosho",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "2000",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308753",
+	"horseLabel": "シーエース",
+	"father": "http://www.wikidata.org/entity/Q11326304",
+	"birthyear": "1964",
+	"deathyear": "1990",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308763",
+	"horseLabel": "Seeking the Dia",
+	"mother": "http://www.wikidata.org/entity/Q11308764",
+	"father": "http://www.wikidata.org/entity/Q3499832",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308764",
+	"horseLabel": "Seeking the Pearl",
+	"father": "http://www.wikidata.org/entity/Q7445798",
+	"birthyear": "1994",
+	"deathyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308765",
+	"horseLabel": "シーキングザベスト",
+	"father": "http://www.wikidata.org/entity/Q7445798",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308798",
+	"horseLabel": "Cesario",
+	"father": "http://www.wikidata.org/entity/Q11312941",
+	"birthyear": "2002",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308800",
+	"horseLabel": "シーザー",
+	"father": "http://www.wikidata.org/entity/Q11326304",
+	"birthyear": "1957",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308836",
+	"horseLabel": "シーチャリオット",
+	"father": "http://www.wikidata.org/entity/Q7445798",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308879",
+	"horseLabel": "C.B. Queen",
+	"birthyear": "1973",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308880",
+	"horseLabel": "C B Cross",
+	"father": "http://www.wikidata.org/entity/Q11332878",
+	"birthyear": "1975",
+	"deathyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308892",
+	"horseLabel": "Sea Hawk",
+	"father": "http://www.wikidata.org/entity/Q11291079",
+	"birthyear": "1963",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308902",
+	"horseLabel": "シーマー",
+	"father": "http://www.wikidata.org/entity/Q11314399",
+	"birthyear": "1944",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11308935",
+	"horseLabel": "シーロ",
+	"father": "http://www.wikidata.org/entity/Q8033082",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309078",
+	"horseLabel": "ジェイエスホールド",
+	"birthyear": "2004",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309134",
+	"horseLabel": "Jade Robbery",
+	"father": "http://www.wikidata.org/entity/Q1104649",
+	"birthyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309142",
+	"horseLabel": "ジェイペグ",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309244",
+	"horseLabel": "J'ai Deux Amours",
+	"father": "http://www.wikidata.org/entity/Q17116219",
+	"birthyear": "1986",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309251",
+	"horseLabel": "Genuine",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1992",
+	"deathyear": "2015",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309336",
+	"horseLabel": "Gemologist",
+	"father": "http://www.wikidata.org/entity/Q11318930",
+	"birthyear": "2009",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309375",
+	"horseLabel": "ジェルミナル",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309502",
+	"horseLabel": "ジグ",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309666",
+	"horseLabel": "Giant Wrecker",
+	"father": "http://www.wikidata.org/entity/Q3105301",
+	"birthyear": "2002",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309699",
+	"horseLabel": "Jaguar Mail",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309830",
+	"horseLabel": "Jack Sullivan",
+	"birthyear": "2001"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11309878",
+	"horseLabel": "Judge Angelucci",
+	"birthyear": "1983",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310101",
+	"horseLabel": "Jalisco Light",
+	"father": "http://www.wikidata.org/entity/Q5434208",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310148",
+	"horseLabel": "Jungle Pocket",
+	"father": "http://www.wikidata.org/entity/Q7821904",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310150",
+	"horseLabel": "Jungle Rocket",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310214",
+	"horseLabel": "ジャンボキング",
+	"birthyear": "1973",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310411",
+	"horseLabel": "Jupiter Island",
+	"father": "http://www.wikidata.org/entity/Q7590888",
+	"birthyear": "1979",
+	"deathyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310433",
+	"horseLabel": "ジュリア",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310487",
+	"horseLabel": "ジユピターユートピア",
+	"birthyear": "1931",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310545",
+	"horseLabel": "ジョイーレ",
+	"father": "http://www.wikidata.org/entity/Q11343365",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310549",
+	"horseLabel": "ジョウテンブレーヴ",
+	"father": "http://www.wikidata.org/entity/Q3013377",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310678",
+	"horseLabel": "Jolie's Shinju",
+	"father": "http://www.wikidata.org/entity/Q11310679",
+	"birthyear": "2005",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310679",
+	"horseLabel": "Jolie's Halo",
+	"father": "http://www.wikidata.org/entity/Q5643313",
+	"birthyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310680",
+	"horseLabel": "Jolly Dance",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "2001",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310697",
+	"horseLabel": "ジョワドヴィーヴル",
+	"mother": "http://www.wikidata.org/entity/Q11331056",
+	"father": "http://www.wikidata.org/entity/Q730381",
+	"birthyear": "2009",
+	"deathyear": "2013",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310831",
+	"horseLabel": "Jo Cappuccino",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310853",
+	"horseLabel": "ジョージモナーク",
+	"father": "http://www.wikidata.org/entity/Q11342941",
+	"birthyear": "1985",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11310900",
+	"horseLabel": "ジョービッグバン",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311097",
+	"horseLabel": "スイグン",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311124",
+	"horseLabel": "Suiten",
+	"birthyear": "1902",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311127",
+	"horseLabel": "Swift Swallow",
+	"father": "http://www.wikidata.org/entity/Q1969034",
+	"birthyear": "1977",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311128",
+	"horseLabel": "スイフトセイダイ",
+	"birthyear": "1986",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311170",
+	"horseLabel": "Sweep Tosho",
+	"father": "http://www.wikidata.org/entity/Q11291418",
+	"birthyear": "2001",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311176",
+	"horseLabel": "スウィフトカレント",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311208",
+	"horseLabel": "Swept Overboard",
+	"father": "http://www.wikidata.org/entity/Q11291418",
+	"birthyear": "1997",
+	"deathyear": "2017",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311219",
+	"horseLabel": "スウヰイスー",
+	"father": "http://www.wikidata.org/entity/Q11314399",
+	"birthyear": "1949",
+	"deathyear": "1964",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311221",
+	"horseLabel": "Suehiro Commander",
+	"mother": "http://www.wikidata.org/entity/Q11311223",
+	"father": "http://www.wikidata.org/entity/Q5152210",
+	"birthyear": "1995",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311223",
+	"horseLabel": "スエヒロジョウオー",
+	"birthyear": "1990",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311272",
+	"horseLabel": "Sky Mesa",
+	"father": "http://www.wikidata.org/entity/Q7259595",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311360",
+	"horseLabel": "Scarlet Ink",
+	"father": "http://www.wikidata.org/entity/Q5185707",
+	"birthyear": "1971",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311361",
+	"horseLabel": "Scarlet Bouquet",
+	"mother": "http://www.wikidata.org/entity/Q11311360",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1988",
+	"deathyear": "2018",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311362",
+	"horseLabel": "スカーレットリボン",
+	"mother": "http://www.wikidata.org/entity/Q11311360",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1985",
+	"deathyear": "2006",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311363",
+	"horseLabel": "Scarlet Lady",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1995",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311371",
+	"horseLabel": "スガノオージ",
+	"father": "http://www.wikidata.org/entity/Q11304517",
+	"birthyear": "1991",
+	"deathyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311373",
+	"horseLabel": "スガノホマレ",
+	"father": "http://www.wikidata.org/entity/Q7497845",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311404",
+	"horseLabel": "Scatter the Gold",
+	"mother": "http://www.wikidata.org/entity/Q5215199",
+	"father": "http://www.wikidata.org/entity/Q1104649",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311408",
+	"horseLabel": "スキャパレリ",
+	"father": "http://www.wikidata.org/entity/Q1945364",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311410",
+	"horseLabel": "Scan",
+	"father": "http://www.wikidata.org/entity/Q1104649",
+	"birthyear": "1988",
+	"deathyear": "2016",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311431",
+	"horseLabel": "スキーキャプテン",
+	"father": "http://www.wikidata.org/entity/Q3499831",
+	"birthyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311439",
+	"horseLabel": "スキーパラダイス",
+	"father": "http://www.wikidata.org/entity/Q3269685",
+	"birthyear": "1990",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311453",
+	"horseLabel": "スギノハヤカゼ",
+	"father": "http://www.wikidata.org/entity/Q5275039",
+	"birthyear": "1993",
+	"deathyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311496",
+	"horseLabel": "スクラムダイナ",
+	"father": "http://www.wikidata.org/entity/Q11320008",
+	"birthyear": "1982",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311521",
+	"horseLabel": "Screen Hero",
+	"father": "http://www.wikidata.org/entity/Q11300176",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311529",
+	"horseLabel": "Squirt",
+	"father": "http://www.wikidata.org/entity/Q4865372",
+	"birthyear": "1732",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311609",
+	"horseLabel": "スゲヌマ",
+	"birthyear": "1935",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311674",
+	"horseLabel": "スズカコーズウェイ",
+	"father": "http://www.wikidata.org/entity/Q3105301",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311675",
+	"horseLabel": "Suzukakoban",
+	"father": "http://www.wikidata.org/entity/Q11341313",
+	"birthyear": "1980",
+	"deathyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311676",
+	"horseLabel": "Suzuka Phoenix",
+	"mother": "http://www.wikidata.org/entity/Q11350924",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2002",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311677",
+	"horseLabel": "Suzuka Mambo",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"deathyear": "2015",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311762",
+	"horseLabel": "スズノキャスター",
+	"birthyear": "1988",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311764",
+	"horseLabel": "スズパレード",
+	"birthyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311789",
+	"horseLabel": "スタイルパッチ",
+	"birthyear": "1950",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11311907",
+	"horseLabel": "Stanerra",
+	"birthyear": "1978",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312001",
+	"horseLabel": "Star Affair",
+	"father": "http://www.wikidata.org/entity/Q7600767",
+	"birthyear": "1962",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312008",
+	"horseLabel": "Star King Man",
+	"father": "http://www.wikidata.org/entity/Q3197083",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312079",
+	"horseLabel": "スターバレリーナ",
+	"father": "http://www.wikidata.org/entity/Q7336008",
+	"birthyear": "1990",
+	"deathyear": "2011",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312105",
+	"horseLabel": "スターマン",
+	"birthyear": "1991",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312118",
+	"horseLabel": "Sterling Rose",
+	"father": "http://www.wikidata.org/entity/Q11284680",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312125",
+	"horseLabel": "スターロツチ",
+	"father": "http://www.wikidata.org/entity/Q17224513",
+	"birthyear": "1957",
+	"deathyear": "1986",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312169",
+	"horseLabel": "スダホーク",
+	"father": "http://www.wikidata.org/entity/Q11308892",
+	"birthyear": "1982",
+	"deathyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312212",
+	"horseLabel": "スティンガー",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1996",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312238",
+	"horseLabel": "Steel Heart",
+	"father": "http://www.wikidata.org/entity/Q11326627",
+	"birthyear": "1972",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312249",
+	"horseLabel": "Stay Gold",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1994",
+	"deathyear": "2015",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312260",
+	"horseLabel": "ステキシンスケクン",
+	"father": "http://www.wikidata.org/entity/Q1104509",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312361",
+	"horseLabel": "ステージチャンプ",
+	"mother": "http://www.wikidata.org/entity/Q11316818",
+	"father": "http://www.wikidata.org/entity/Q7301055",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312364",
+	"horseLabel": "ステーツマン",
+	"father": "http://www.wikidata.org/entity/Q4925007",
+	"birthyear": "1930",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312367",
+	"horseLabel": "State Jaguar",
+	"father": "http://www.wikidata.org/entity/Q11305596",
+	"birthyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312503",
+	"horseLabel": "Strong Eight",
+	"father": "http://www.wikidata.org/entity/Q6072645",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312505",
+	"horseLabel": "ストロングガルーダ",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "2006",
+	"deathyear": "2013",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312509",
+	"horseLabel": "ストロングブラッド",
+	"father": "http://www.wikidata.org/entity/Q11321082",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312511",
+	"horseLabel": "ストロングリターン",
+	"father": "http://www.wikidata.org/entity/Q7661156",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312524",
+	"horseLabel": "ストーミーカフェ",
+	"father": "http://www.wikidata.org/entity/Q17221619",
+	"birthyear": "2002"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312541",
+	"horseLabel": "ストーンステッパー",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312651",
+	"horseLabel": "スパイキュール",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312797",
+	"horseLabel": "Speed Symboli",
+	"birthyear": "1963",
+	"deathyear": "1989",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312816",
+	"horseLabel": "スピードワールド",
+	"father": "http://www.wikidata.org/entity/Q8033082",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312860",
+	"horseLabel": "Spring Ghent",
+	"father": "http://www.wikidata.org/entity/Q7096598",
+	"birthyear": "2000",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312922",
+	"horseLabel": "スペクテイター",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312940",
+	"horseLabel": "Special",
+	"father": "http://www.wikidata.org/entity/Q11332888",
+	"birthyear": "1969",
+	"deathyear": "1999",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11312941",
+	"horseLabel": "Special Week",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1995",
+	"deathyear": "2018",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313235",
+	"horseLabel": "スマイルジャック",
+	"father": "http://www.wikidata.org/entity/Q11316237",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313240",
+	"horseLabel": "スマイルトゥモロー",
+	"birthyear": "1999",
+	"deathyear": "2017",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313273",
+	"horseLabel": "Smadoun",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313274",
+	"horseLabel": "スマノダイドウ",
+	"birthyear": "1970",
+	"deathyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313287",
+	"horseLabel": "スマートファルコン",
+	"father": "http://www.wikidata.org/entity/Q11303924",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313288",
+	"horseLabel": "スマートボーイ",
+	"father": "http://www.wikidata.org/entity/Q11283161",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313293",
+	"horseLabel": "スマートロビン",
+	"father": "http://www.wikidata.org/entity/Q730381",
+	"birthyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313394",
+	"horseLabel": "Sri Pekan",
+	"father": "http://www.wikidata.org/entity/Q7304776",
+	"birthyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313404",
+	"horseLabel": "スリリングサンデー",
+	"mother": "http://www.wikidata.org/entity/Q11311361",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313407",
+	"horseLabel": "スリルショー",
+	"birthyear": "1983",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313423",
+	"horseLabel": "スリーオペレーター",
+	"father": "http://www.wikidata.org/entity/Q7096598",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313429",
+	"horseLabel": "スリーコース",
+	"father": "http://www.wikidata.org/entity/Q11297865",
+	"birthyear": "1991",
+	"deathyear": "1997",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313432",
+	"horseLabel": "スリージャイアンツ",
+	"birthyear": "1975",
+	"deathyear": "1981",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313448",
+	"horseLabel": "スリープレスナイト",
+	"father": "http://www.wikidata.org/entity/Q11299831",
+	"birthyear": "2004",
+	"deathyear": "2012",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313457",
+	"horseLabel": "スリーロールス",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313465",
+	"horseLabel": "スルガスンプジョウ",
+	"birthyear": "1971",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313496",
+	"horseLabel": "スルーオダイナ",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313572",
+	"horseLabel": "Swanswood Grove",
+	"father": "http://www.wikidata.org/entity/Q11300706",
+	"birthyear": "1960",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313628",
+	"horseLabel": "Suni",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313675",
+	"horseLabel": "スーパーオトメ",
+	"birthyear": "1993",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313702",
+	"horseLabel": "Super Creek",
+	"father": "http://www.wikidata.org/entity/Q11325831",
+	"birthyear": "1985",
+	"deathyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313719",
+	"horseLabel": "スーパーシンザン",
+	"father": "http://www.wikidata.org/entity/Q7497845",
+	"birthyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313799",
+	"horseLabel": "スーパーハリケーン",
+	"father": "http://www.wikidata.org/entity/Q11345211",
+	"birthyear": "2002",
+	"deathyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313854",
+	"horseLabel": "スーパーペガサス",
+	"birthyear": "1996",
+	"deathyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11313857",
+	"horseLabel": "Super Hornet",
+	"father": "http://www.wikidata.org/entity/Q7357442",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314113",
+	"horseLabel": "Seiun Wonder",
+	"father": "http://www.wikidata.org/entity/Q11300176",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314114",
+	"horseLabel": "セイウンスカイ",
+	"father": "http://www.wikidata.org/entity/Q11306984",
+	"birthyear": "1995",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314122",
+	"horseLabel": "セイクリムズン",
+	"father": "http://www.wikidata.org/entity/Q11289550",
+	"birthyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314150",
+	"horseLabel": "セイユウ",
+	"father": "http://www.wikidata.org/entity/Q11346360",
+	"birthyear": "1954",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314179",
+	"horseLabel": "セカイオー",
+	"father": "http://www.wikidata.org/entity/Q17361614",
+	"birthyear": "1952",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314216",
+	"horseLabel": "セガンヂャ",
+	"birthyear": "1996"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314231",
+	"horseLabel": "セキテイリュウオー",
+	"father": "http://www.wikidata.org/entity/Q11321101",
+	"birthyear": "1989",
+	"deathyear": "2011",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314327",
+	"horseLabel": "Sedan",
+	"birthyear": "1955",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314399",
+	"horseLabel": "Theft",
+	"father": "http://www.wikidata.org/entity/Q7706757",
+	"birthyear": "1932",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314492",
+	"horseLabel": "セラフィックロンプ",
+	"father": "http://www.wikidata.org/entity/Q11341616",
+	"birthyear": "2004",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314519",
+	"horseLabel": "セリーセクレタリー",
+	"father": "http://www.wikidata.org/entity/Q7283646",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314628",
+	"horseLabel": "Celestial Storm",
+	"father": "http://www.wikidata.org/entity/Q7351567",
+	"birthyear": "1983",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314659",
+	"horseLabel": "セレン",
+	"father": "http://www.wikidata.org/entity/Q11341810",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314717",
+	"horseLabel": "Sendawar",
+	"father": "http://www.wikidata.org/entity/Q7245356",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314763",
+	"horseLabel": "Saint Crespin",
+	"father": "http://www.wikidata.org/entity/Q4822299",
+	"birthyear": "1956",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314768",
+	"horseLabel": "St.Steven",
+	"birthyear": "1994"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314856",
+	"horseLabel": "Sageburg",
+	"father": "http://www.wikidata.org/entity/Q6217141",
+	"birthyear": "2004",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314922",
+	"horseLabel": "Zeddaan",
+	"father": "http://www.wikidata.org/entity/Q11300706",
+	"birthyear": "1965",
+	"deathyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11314942",
+	"horseLabel": "Generalist",
+	"father": "http://www.wikidata.org/entity/Q1005468",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315049",
+	"horseLabel": "Zenno El Cid",
+	"father": "http://www.wikidata.org/entity/Q2932844",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315060",
+	"horseLabel": "ゼーアドラー",
+	"birthyear": "1936",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315124",
+	"horseLabel": "Social Butterfly",
+	"father": "http://www.wikidata.org/entity/Q8058830",
+	"birthyear": "1957",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315384",
+	"horseLabel": "Solitary King",
+	"mother": "http://www.wikidata.org/entity/Q11311363",
+	"father": "http://www.wikidata.org/entity/Q11297858",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315435",
+	"horseLabel": "Solonaway",
+	"birthyear": "1946",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315452",
+	"horseLabel": "Song of Wind",
+	"father": "http://www.wikidata.org/entity/Q5351060",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315477",
+	"horseLabel": "Soviet Star",
+	"father": "http://www.wikidata.org/entity/Q3346473",
+	"birthyear": "1984",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315479",
+	"horseLabel": "ソヴリンパス",
+	"father": "http://www.wikidata.org/entity/Q11300706",
+	"birthyear": "1956",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315674",
+	"horseLabel": "タイキシャーロック",
+	"father": "http://www.wikidata.org/entity/Q11309134",
+	"birthyear": "1992",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315675",
+	"horseLabel": "タイキトレジャー",
+	"father": "http://www.wikidata.org/entity/Q11164164",
+	"birthyear": "1996",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315676",
+	"horseLabel": "タイキバカラ",
+	"father": "http://www.wikidata.org/entity/Q7569964",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315677",
+	"horseLabel": "タイキファイヤー",
+	"mother": "http://www.wikidata.org/entity/Q11288587",
+	"father": "http://www.wikidata.org/entity/Q11164164",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315678",
+	"horseLabel": "タイキフォーチュン",
+	"father": "http://www.wikidata.org/entity/Q7442093",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315679",
+	"horseLabel": "タイキブリザード",
+	"father": "http://www.wikidata.org/entity/Q1457136",
+	"birthyear": "1991",
+	"deathyear": "2014",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315693",
+	"horseLabel": "タイセイアトム",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315694",
+	"horseLabel": "タイセイブレーヴ",
+	"father": "http://www.wikidata.org/entity/Q11304520",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315696",
+	"horseLabel": "タイセイレジェンド",
+	"father": "http://www.wikidata.org/entity/Q11297858",
+	"birthyear": "2007",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315708",
+	"horseLabel": "Tai Tehm",
+	"father": "http://www.wikidata.org/entity/Q11314763",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315712",
+	"horseLabel": "Tight Spot",
+	"father": "http://www.wikidata.org/entity/Q11330029",
+	"birthyear": "1987",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315776",
+	"horseLabel": "タイムパラドックス",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315783",
+	"horseLabel": "タイムライン",
+	"father": "http://www.wikidata.org/entity/Q11316007",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315809",
+	"horseLabel": "タイヨウ",
+	"father": "http://www.wikidata.org/entity/Q11301477",
+	"birthyear": "1963",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315901",
+	"horseLabel": "タカイホーマ",
+	"birthyear": "1969",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315902",
+	"horseLabel": "タカエノカオリ",
+	"father": "http://www.wikidata.org/entity/Q11352175",
+	"birthyear": "1971",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315904",
+	"horseLabel": "タカオー",
+	"father": "http://www.wikidata.org/entity/Q11308902",
+	"birthyear": "1951",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315964",
+	"horseLabel": "タカマガハラ",
+	"father": "http://www.wikidata.org/entity/Q11299394",
+	"birthyear": "1957",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315980",
+	"horseLabel": "タカラコスモス",
+	"father": "http://www.wikidata.org/entity/Q11304507",
+	"birthyear": "1984",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11315983",
+	"horseLabel": "タカラスチール",
+	"father": "http://www.wikidata.org/entity/Q11312238",
+	"birthyear": "1982",
+	"deathyear": "1992",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316005",
+	"horseLabel": "タガノテイオー",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316006",
+	"horseLabel": "タガノマイバッハ",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316007",
+	"horseLabel": "タガミホマレ",
+	"birthyear": "1962",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316062",
+	"horseLabel": "タケシバオー",
+	"father": "http://www.wikidata.org/entity/Q11318040",
+	"birthyear": "1965",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316070",
+	"horseLabel": "タケデンバード",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316072",
+	"horseLabel": "タケノベルベット",
+	"birthyear": "1989",
+	"deathyear": "2014",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316073",
+	"horseLabel": "タケノハナミ",
+	"birthyear": "1982",
+	"deathyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316076",
+	"horseLabel": "タケフブキ",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1969",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316079",
+	"horseLabel": "タケホープ",
+	"birthyear": "1970",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316080",
+	"horseLabel": "タケミカヅチ",
+	"father": "http://www.wikidata.org/entity/Q11303924",
+	"birthyear": "2005",
+	"deathyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316104",
+	"horseLabel": "タスカータソルテ",
+	"father": "http://www.wikidata.org/entity/Q11310148",
+	"birthyear": "2004",
+	"deathyear": "2010",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316129",
+	"horseLabel": "タチカゼ",
+	"father": "http://www.wikidata.org/entity/Q11335651",
+	"birthyear": "1946",
+	"deathyear": "1965",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316184",
+	"horseLabel": "Tap Dance City",
+	"father": "http://www.wikidata.org/entity/Q7203981",
+	"birthyear": "1997",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316237",
+	"horseLabel": "Tanino Gimlet",
+	"father": "http://www.wikidata.org/entity/Q4962908",
+	"birthyear": "1999",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316239",
+	"horseLabel": "タニノチカラ",
+	"birthyear": "1969",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316240",
+	"horseLabel": "タニノムーティエ",
+	"father": "http://www.wikidata.org/entity/Q11343230",
+	"birthyear": "1967",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316241",
+	"horseLabel": "タニノハローモア",
+	"father": "http://www.wikidata.org/entity/Q17224513",
+	"birthyear": "1965",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316309",
+	"horseLabel": "タマツバキ",
+	"father": "http://www.wikidata.org/entity/Q18236560",
+	"birthyear": "1945",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316317",
+	"horseLabel": "タマミ",
+	"birthyear": "1967",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316318",
+	"horseLabel": "タマモイナズマ",
+	"father": "http://www.wikidata.org/entity/Q11316319",
+	"birthyear": "1994",
+	"deathyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316319",
+	"horseLabel": "Tamamo Cross",
+	"mother": "http://www.wikidata.org/entity/Q11300536",
+	"father": "http://www.wikidata.org/entity/Q11308880",
+	"birthyear": "1984",
+	"deathyear": "2003",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316320",
+	"horseLabel": "Tamamo Strong",
+	"mother": "http://www.wikidata.org/entity/Q11305864",
+	"father": "http://www.wikidata.org/entity/Q11311410",
+	"birthyear": "1995",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316321",
+	"horseLabel": "Tamamo Support",
+	"father": "http://www.wikidata.org/entity/Q11316319",
+	"birthyear": "2003"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316322",
+	"horseLabel": "タマモホットプレイ",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316323",
+	"horseLabel": "Tamayuz",
+	"father": "http://www.wikidata.org/entity/Q6983136",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316349",
+	"horseLabel": "タムロチェリー",
+	"father": "http://www.wikidata.org/entity/Q7444446",
+	"birthyear": "1999",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316382",
+	"horseLabel": "タヤスツヨシ",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1992",
+	"deathyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316436",
+	"horseLabel": "タレンティドガール",
+	"father": "http://www.wikidata.org/entity/Q11348445",
+	"birthyear": "1984",
+	"deathyear": "2008",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316505",
+	"horseLabel": "タンディチェイル",
+	"father": "http://www.wikidata.org/entity/Q11347088",
+	"birthyear": "1992",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316557",
+	"horseLabel": "ターター",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316614",
+	"horseLabel": "ダイアナソロン",
+	"father": "http://www.wikidata.org/entity/Q11329825",
+	"birthyear": "1981",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316636",
+	"horseLabel": "Daiichi Ruby",
+	"mother": "http://www.wikidata.org/entity/Q11326269",
+	"father": "http://www.wikidata.org/entity/Q11321101",
+	"birthyear": "1987",
+	"deathyear": "2007",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316729",
+	"horseLabel": "Diolite",
+	"birthyear": "1927",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316764",
+	"horseLabel": "ダイゴホマレ",
+	"father": "http://www.wikidata.org/entity/Q11342345",
+	"birthyear": "1955",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316765",
+	"horseLabel": "ダイゴトツゲキ",
+	"birthyear": "1982",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316775",
+	"horseLabel": "ダイシンオレンジ",
+	"father": "http://www.wikidata.org/entity/Q11283071",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316776",
+	"horseLabel": "ダイシンフブキ",
+	"father": "http://www.wikidata.org/entity/Q11323415",
+	"birthyear": "1983",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316777",
+	"horseLabel": "ダイシンボルガード",
+	"birthyear": "1966",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316795",
+	"horseLabel": "ダイタクバートラム",
+	"father": "http://www.wikidata.org/entity/Q5215257",
+	"birthyear": "1998",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316796",
+	"horseLabel": "Daitaku Helios",
+	"father": "http://www.wikidata.org/entity/Q11330652",
+	"birthyear": "1987",
+	"deathyear": "2008",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316798",
+	"horseLabel": "Daitaku Yamato",
+	"father": "http://www.wikidata.org/entity/Q11316796",
+	"birthyear": "1994",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316799",
+	"horseLabel": "Daitaku Riva",
+	"father": "http://www.wikidata.org/entity/Q11333106",
+	"birthyear": "1997",
+	"deathyear": "2017",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316818",
+	"horseLabel": "ダイナアクトレス",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1983",
+	"deathyear": "2012",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316819",
+	"horseLabel": "Dyna Carle",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1980",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316820",
+	"horseLabel": "Dyna Gulliver",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1983",
+	"deathyear": "2012",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316821",
+	"horseLabel": "ダイナコスモス",
+	"birthyear": "1983",
+	"deathyear": "2006",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316824",
+	"horseLabel": "ダイナサンキュー",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316831",
+	"horseLabel": "Dyna Shoot",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1982",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316839",
+	"horseLabel": "ダイナナホウシユウ",
+	"birthyear": "1951",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316840",
+	"horseLabel": "Dyna Fairy",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1983",
+	"deathyear": "2015",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316850",
+	"horseLabel": "ダイナマイトダディ",
+	"father": "http://www.wikidata.org/entity/Q11304531",
+	"birthyear": "1988",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316887",
+	"horseLabel": "ダイナレター",
+	"father": "http://www.wikidata.org/entity/Q7059024",
+	"birthyear": "1984",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316895",
+	"horseLabel": "ダイニホウシユウ",
+	"father": "http://www.wikidata.org/entity/Q11298824",
+	"birthyear": "1948",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316963",
+	"horseLabel": "ダイメイゴッツ",
+	"birthyear": "1990",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11316983",
+	"horseLabel": "ダイヤモンドウェッディング",
+	"birthyear": "1905",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317002",
+	"horseLabel": "ダイヤモンドビコー",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1998",
+	"deathyear": "2014",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317028",
+	"horseLabel": "ダイユウサク",
+	"father": "http://www.wikidata.org/entity/Q1042741",
+	"birthyear": "1985",
+	"deathyear": "2013",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317053",
+	"horseLabel": "ダイワエルシエーロ",
+	"mother": "http://www.wikidata.org/entity/Q11350837",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317054",
+	"horseLabel": "Daiwa Caerleon",
+	"mother": "http://www.wikidata.org/entity/Q11309244",
+	"father": "http://www.wikidata.org/entity/Q2932844",
+	"birthyear": "1993",
+	"deathyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317057",
+	"horseLabel": "ダイワテキサス",
+	"birthyear": "1993",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317065",
+	"horseLabel": "Daiwa Major",
+	"mother": "http://www.wikidata.org/entity/Q11311361",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "2001",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317066",
+	"horseLabel": "ダイワルージュ",
+	"mother": "http://www.wikidata.org/entity/Q11311361",
+	"father": "http://www.wikidata.org/entity/Q180387",
+	"birthyear": "1998",
+	"deathyear": "2010",
+	"genderLabel": "female organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317069",
+	"horseLabel": "ダイワワイルドボア",
+	"father": "http://www.wikidata.org/entity/Q4693122",
+	"birthyear": "2005",
+	"genderLabel": "male organism"
+}, {
+	"horse": "http://www.wikidata.org/entity/Q11317144",
+	"horseLabel": "ダスゲニー",
+	"birthyear": "1980",
+	"genderLabel": "female organism"
+}]
